@@ -8,11 +8,11 @@
 
 ### 安装包
 
-https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_001_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_003_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_004_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_005_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_001_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_003_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_004_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_005_005.sfx.exe
 
 ### 补丁
 
@@ -36,11 +36,11 @@ https://up1.autodesk.com/2024/RVT/F08F7B8A-0A88-3F46-ABBD-7F60758D885A/Revit_202
 
 ### 安装包
 
-https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_001_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_002_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_003_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_004_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_005_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_001_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_002_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_003_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_004_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2023/RVT/5A37FF7C-EA37-3FE6-8EF6-7382D03DEE46/SFX/Revit_2023_G1_Win_64bit_dlm_005_005.sfx.exe
 
 ### 补丁
 
@@ -66,11 +66,11 @@ https://up.autodesk.com/2023/RVT/31217BB7-CA6E-3911-81D5-23D1783EEC8B/Revit_2023
 
 ## Revit2022
 
-https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_001_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_002_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_003_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_004_005.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_005_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_001_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_002_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_003_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_004_005.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_005_005.sfx.exe
 
 ### 补丁
 
@@ -102,39 +102,39 @@ http://up.autodesk.com/2022/RVT/8E096FF3-E975-3C15-9AF7-3F216B908901//Revit_2022
 
 ### 安装包
 
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_001_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_002_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_003_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_004_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_005_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_006_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_001_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_002_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_003_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_004_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_005_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/5A103FCF-A48C-4B74-A1FB-3B46BAE71CE5/SFX/Revit_2021_G1_Win_64bit_dlm_006_006.sfx.exe
 
 ### 2021 G1 R1
 
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_001_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_002_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_003_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_004_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_005_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_006_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_001_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_002_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_003_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_004_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_005_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/9FB94034-1624-4C66-9E71-2D8A22C8B785/SFX/Revit_2021_r1_G1_Win_64bit_dlm_006_006.sfx.exe
 
 ### 2021 G1 R2
 
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_001_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_002_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_003_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_004_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_005_006.sfx.exe
-https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_006_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_001_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_002_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_003_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_004_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_005_006.sfx.exe
+- https://trial2.autodesk.com/NetSWDLD/2021/RVT/A6A219ED-9242-337B-B6B4-CB926DCF7442/SFX/Revit_2021_r2_G1_Win_64bit_dlm_006_006.sfx.exe
 
 ### 2021 G1 R3
 
-https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_001_006.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_002_006.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_003_006.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_004_006.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_005_006.sfx.exe
-http://trial2.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_006_006.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_001_006.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_002_006.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_003_006.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_004_006.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_005_006.sfx.exe
+- http://trial2.autodesk.com/NetSWDLD/2021/RVT/AA3C5F33-570B-3989-8542-D5DC0F759221/SFX/Revit_2021_r3_G1_Win_64bit_dlm_006_006.sfx.exe
 
 ### 补丁
 
@@ -182,43 +182,43 @@ https://up.autodesk.com/2021/RVT/9CA05B9A-2115-0510-A1B4-FFF7A680FE55/Revit_2021
 
 ### 安装包
 
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_001_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_002_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_003_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_004_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_005_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_006_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_007_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_001_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_002_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_003_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_004_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_005_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_006_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/DEB896FF-86A4-4C44-89A4-46C550BEDB60/SFX/Revit_2020_G1_Win_64bit_dlm_007_007.sfx.exe
 
 ### 2020.1 G1
 
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_001_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_002_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_003_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_004_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_005_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_006_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_007_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_001_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_002_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_003_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_004_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_005_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_006_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/C498B1A2-49F4-48B5-8DB0-21286B6EC003/SFX/Revit_2020_G1_Win_64bit_r1_dlm_007_007.sfx.exe
 
 ### 2020.2 G1
 
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_001_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_002_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_003_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_004_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_005_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_006_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_007_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_001_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_002_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_003_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_004_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_005_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_006_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/99F3CFD8-3705-4749-84D5-E4B9D3346539/SFX/Revit_2020_G1_Win_64bit_r2_dlm_007_007.sfx.exe
 
 ### 2020.2.1 G1
 
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_001_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_002_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_003_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_004_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_005_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_006_007.sfx.exe
-https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_007_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_001_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_002_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_003_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_004_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_005_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_006_007.sfx.exe
+- https://dds.autodesk.com/NetSWDLD/2020/RVT/45AD2BD9-8738-40BB-A298-9D6E03CDD6CD/SFX/Revit_2020_G1_Win_64bit_r3_dlm_007_007.sfx.exe
 
 ### 补丁
 
@@ -266,9 +266,9 @@ http://up.autodesk.com/2020/RVT/9CA05B9A-2014-0510-A1B4-FFF7A680FE55/Revit_2020_
 
 ### 安装包
 
-http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_001_003.sfx.exe
-http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_002_003.sfx.exe
-http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_003_003.sfx.exe
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_001_003.sfx.exe
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_002_003.sfx.exe
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_003_003.sfx.exe
 
 ### 补丁
 
@@ -304,9 +304,9 @@ https://up.autodesk.com/2019/RVT/9CA05B9A-1913-0510-A1B4-FFF7A680FE55/Revit_2019
 
 ### 安装包
 
-http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_001_003.sfx.exe
-http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_002_003.sfx.exe
-http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_003_003.sfx.exe
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_001_003.sfx.exe
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_002_003.sfx.exe
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_003_003.sfx.exe
 
 ### 补丁
 
@@ -350,8 +350,8 @@ http://up.autodesk.com/2018/RVT/9CA05B9A-1813-0510-A1B4-98696E090436/Autodesk_Re
 
 ### 安装包
 
-http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_001_002.sfx.exe
-http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_002_002.sfx.exe
+- http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_001_002.sfx.exe
+- http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_002_002.sfx.exe
 
 ### 补丁
 
@@ -391,8 +391,8 @@ http://up.autodesk.com/2017/RVT/9CA05B9A-1713-0510-A1B4-5C6B745FD44B/Autodesk_Re
 
 ### 安装包
 
-https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_001_002.sfx.exe
-https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_002_002.sfx.exe
+- https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_001_002.sfx.exe
+- https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_002_002.sfx.exe
 
 ### 补丁
 
