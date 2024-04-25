@@ -4,6 +4,11 @@
 
 复制相应的链接到浏览器地址栏即可下载，主版本安装包全部下载完成后，双击任意一个自解压包即可解压安装包，如：Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe 。补丁文件需要在主版本之后才能安装。
 
+## Revit2025
+
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/RVT/686CE2A3-7C33-3AD5-806A-75A6E648117F/SFX/Revit_2025_English_Win_64bit_dlm_001_002.exe
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/RVT/686CE2A3-7C33-3AD5-806A-75A6E648117F/SFX/Revit_2025_English_Win_64bit_dlm_002_002.7z
+
 ## Revit2024
 
 ### 安装包
