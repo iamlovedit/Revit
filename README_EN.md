@@ -235,4 +235,190 @@ https://up.autodesk.com/2021/RVT/9CA05B9A-2115-0510-A1B4-FFF7A680FE55/Revit_2021
 
 #### 2020.0.1
 
-https://up.autodesk.com/2020/R
+https://up.autodesk.com/2020/RVT/9CA05B9A-2002-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_0_1.msp
+
+#### 2020.1
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2003-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_1.exe
+
+#### 2020.2
+
+http://up.autodesk.com/2020/RVT/9CA05B9A-2004-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_2.exe
+
+#### 2020.2.1
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2006-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_2_1.exe
+
+#### 2020.2.2
+
+http://up.autodesk.com/2020/RVT/9CA05B9A-2007-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_2_2.exe
+
+#### 2020.2.3
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2008-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2020_2_3.exe
+
+#### 2020.2.4
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2009-0510-A1B4-FFF7A680FE55//Revit_2020_2_4.exe
+
+#### 2020.2.5
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2010-0510-A1B4-FFF7A680FE55/Revit_2020_2_5.exe
+
+#### 2020.2.7
+
+https://up.autodesk.com/2020/RVT/9CA05B9A-2012-0510-A1B4-FFF7A680FE55/Revit_2020_2_7.exe
+
+#### 2020.2.9
+
+http://up.autodesk.com/2020/RVT/9CA05B9A-2014-0510-A1B4-FFF7A680FE55/Revit_2020_2_9.exe
+
+## Revit2019
+
+### Installation Package
+
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_001_003.sfx.exe
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_002_003.sfx.exe
+- http://dds.autodesk.com/NetSWDLD/2019/RVT/4694D374-BE4C-4D95-BD13-184A9FC500F3/SFX/Revit_2019_G1_Win_64bit_dlm_003_003.sfx.exe
+
+### Patches
+
+#### 2019.0.1
+
+http://up.autodesk.com/2019/RVT/9CA05B9A-1903-0510-A1B4-FFF7A680FE55/Revit_2019_0_1.exe
+
+#### 2019.1
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1904-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2019_1.exe
+
+#### 2019.2
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1907-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2019_2.exe
+
+#### 2019.2.1
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1908-0510-A1B4-FFF7A680FE55/Autodesk_Revit_2019_2_1.exe
+
+#### 2019.2.3
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1910-0510-A1B4-FFF7A680FE55//Revit_2019_2_3.exe
+
+#### 2019.2.4
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1911-0510-A1B4-FFF7A680FE55/Revit_2019_2_4.exe
+
+#### 2019.2.6
+
+https://up.autodesk.com/2019/RVT/9CA05B9A-1913-0510-A1B4-FFF7A680FE55/Revit_2019_2_6.exe
+
+## Revit2018
+
+### Installation Package
+
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_001_003.sfx.exe
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_002_003.sfx.exe
+- http://dds.autodesk.com/NET18SWDLD/2018/RVT/89DB791F-E258-4EB0-AB76-DC1C184D93A6/SFX/Revit_2018_G1_Win_64bit_dlm_003_003.sfx.exe
+
+### Patches
+
+#### 2018.0.1
+
+http://up.autodesk.com/2018/RVT/Autodesk_Revit_2018_0_1.exe
+
+#### 2018.0.2
+
+http://up.autodesk.com/2018/RVT/Autodesk_Revit_2018_0_2.exe
+
+#### 2018.1
+
+http://up.autodesk.com/2018/RVT/Autodesk_Revit_2018_1.exe
+
+#### 2018.1.1
+
+http://up.autodesk.com/2018/RVT/Autodesk_Revit_2018_1_1.exe
+
+#### 2018.2
+
+http://up.autodesk.com/2018/RVT/Autodesk_Revit_2018_2.exe
+
+#### 2018.3
+
+http://up.autodesk.com/2018/RVT/9CA05B9A-1809-0510-A1B4-98696E090436/Autodesk_Revit_2018_3.exe
+
+#### 2018.3.1
+
+https://up.autodesk.com/2018/RVT/9CA05B9A-1810-0510-A1B4-98696E090436/Revit_2018_3_1.exe
+
+#### 2018.3.2
+
+https://up.autodesk.com/2018/RVT/9CA05B9A-1812-0510-A1B4-98696E090436/Autodesk_Revit_2018_3_2.exe
+
+#### 2018.3.3
+
+http://up.autodesk.com/2018/RVT/9CA05B9A-1813-0510-A1B4-98696E090436/Autodesk_Revit_2018_3_3.exe
+
+## Revit2017
+
+### Installation Package
+
+- http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_001_002.sfx.exe
+- http://dds.autodesk.com/NET17SWDLD/2017/RVT/DLM/Autodesk_Revit_2017_English_Win_64bit_dlm_002_002.sfx.exe
+
+### Patches
+
+#### 2017.1
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017.1.exe
+
+#### 2017.1.1
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017_1_1.exe
+
+#### 2017.2
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017_2.exe
+
+#### 2017.2.1
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017_2_1.exe
+
+#### 2017.2.2
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017_2_2.exe
+
+#### 2017.2.3
+
+http://up.autodesk.com/2017/RVT/Autodesk_Revit_2017_2_3.exe
+
+#### 2017.2.4
+
+https://up.autodesk.com/2017/RVT/9CA05B9A-1711-0510-A1B4-5C6B745FD44B/Autodesk_Revit_2017_2_4.exe
+
+#### 2017.2.5
+
+http://up.autodesk.com/2017/RVT/9CA05B9A-1713-0510-A1B4-5C6B745FD44B/Autodesk_Revit_2017_2_5.exe
+
+## Revit2016
+
+### Installation Package
+
+- https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_001_002.sfx.exe
+- https://dds.autodesk.com/NET16SWDLD/2016/RVT/DLM/Autodesk_Revit_2016_English_Win_64bit_dlm_002_002.sfx.exe
+
+### Patches
+
+#### 2016 SP1
+
+https://revit.downloads.autodesk.com/download/2016RVT_SP1/Deliver/Autodesk_Revit_2016_SP1.exe
+
+#### 2016 SP2
+
+https://revit.downloads.autodesk.com/download/2016RVT_SP2/Deliver/Autodesk_Revit_2016_SP2.exe
+
+## Revit2015
+
+http://trial2.autodesk.com/SWDLDNET4/2015/RVT/DLM/Autodesk_Revit_2015_English_Win_64bit_R2_dlm.sfx.exe
+
+## Revit2014
+
+http://trial2.autodesk.com/SWDLDNET3/2014/RVT/DLM/Autodesk_Revit_2014_English_Win_32-64bit_dlm.sfx.exe
