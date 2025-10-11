@@ -38,6 +38,36 @@ Copy the corresponding link to your browser's address bar to download. After all
 - https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/RVT/686CE2A3-7C33-3AD5-806A-75A6E648117F/SFX/Revit_2025_English_Win_64bit_dlm_001_002.exe
 - https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/RVT/686CE2A3-7C33-3AD5-806A-75A6E648117F/SFX/Revit_2025_English_Win_64bit_dlm_002_002.7z
 
+### Patches
+
+#### 2025.1
+
+- https://up1.autodesk.com/NetSWCOM/prd/RVT/A4E6F453-E981-376C-B090-200E507EAEE8/Revit_2025_1_0.exe
+
+#### 2025.2
+
+- https://up1.autodesk.com/NetSWCOM/prd/2025/RVT/DB18C4D7-1472-3103-A70F-6DCE4C215172/Revit_2025_2_0.exe
+
+#### 2025.3
+
+- https://up1.autodesk.com/NetSWCOM/prd/2025/RVT/E64EF6FA-C968-333F-956D-95E05D635BFF/Revit_2025_3_0.exe
+
+#### 2025.4
+
+- http://up1.autodesk.com/NetSWCOM/prd/2025/RVT/5B4A367D-2572-3C2C-8BD0-7E9AC048D1B5/Revit_2025_4_0.exe
+
+#### 2025.4.1
+
+- https://up1.autodesk.com/prd/2025/RVT/BF5F3A3C-1C5E-3951-B035-754D65B0E72A/Revit_2025_4_1.exe
+
+#### 2025.4.2
+
+- https://up1.autodesk.com/prd/2025/RVT/1F91E9AD-BE92-31A9-9F89-7B3DE9DF6318/Revit_2025_4_2.exe
+
+#### 2025.4.3
+
+- https://up1.autodesk.com/prd/2025/RVT/7B1DED9E-4524-360B-A232-BE9D9B5FDC6B/Revit_2025_4_3.exe
+
 ## Revit2024
 
 ### Installation Package
