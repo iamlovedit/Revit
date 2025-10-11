@@ -1,5 +1,7 @@
-# Revit 
+# Revit
+
 [English](./README_EN.md)
+
 ## 官方网站
 
 访问[官网](https://revit.youngala.com/zh/),获取更多 Revit 二次开发资源
@@ -7,6 +9,31 @@
 ## 安装说明
 
 复制相应的链接到浏览器地址栏即可下载，主版本安装包全部下载完成后，双击任意一个自解压包即可解压安装包，如：Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe 。补丁文件需要在主版本之后才能安装。
+
+## Revit2026
+
+### 安装包
+
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/RVT/8986CA21-EA9C-32F3-A1DB-C34BD2BDA7A5/SFX/RVT_2026_NA_win_db_001_002.exe
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/RVT/8986CA21-EA9C-32F3-A1DB-C34BD2BDA7A5/SFX/RVT_2026_NA_win_db_002_002.7z
+
+### 补丁
+
+#### 2026.0.1
+
+- https://up1.autodesk.com/prd/2026/RVT/966D4CC9-CA79-37F0-B2B4-E20A217B164F/Revit_2026_0_1.exe
+
+#### 2026.1
+
+- https://up1.autodesk.com/prd/2026/RVT/0DD6EEC6-BB1E-3563-8272-0EDC50D949A0/Revit_2026_1_0.exe
+
+#### 2026.2
+
+- https://up1.autodesk.com/prd/2026/RVT/ED050626-D72B-3291-A1CA-1B1F8E52E465/Revit_2026_2_0.exe
+
+#### 2026.3
+
+- https://up1.autodesk.com/prd/2026/RVT/4452600D-8F5F-3CBC-83DF-A86EC34FD930/Revit_2026_3_0.exe
 
 ## Revit2025
 

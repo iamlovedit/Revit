@@ -8,6 +8,31 @@ Visit the [official website](https://revit.youngala.com) to get more Revit secon
 
 Copy the corresponding link to your browser's address bar to download. After all the main version installation packages are downloaded, double-click any self-extracting package to extract the installation package, such as: Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe. Patch files need to be installed after the main version.
 
+## Revit2026
+
+### Installation Package
+
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/RVT/8986CA21-EA9C-32F3-A1DB-C34BD2BDA7A5/SFX/RVT_2026_NA_win_db_001_002.exe
+- https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/RVT/8986CA21-EA9C-32F3-A1DB-C34BD2BDA7A5/SFX/RVT_2026_NA_win_db_002_002.7z
+
+### Patches
+
+#### 2026.0.1
+
+- https://up1.autodesk.com/prd/2026/RVT/966D4CC9-CA79-37F0-B2B4-E20A217B164F/Revit_2026_0_1.exe
+
+#### 2026.1
+
+- https://up1.autodesk.com/prd/2026/RVT/0DD6EEC6-BB1E-3563-8272-0EDC50D949A0/Revit_2026_1_0.exe
+
+#### 2026.2
+
+- https://up1.autodesk.com/prd/2026/RVT/ED050626-D72B-3291-A1CA-1B1F8E52E465/Revit_2026_2_0.exe
+
+#### 2026.3
+
+- https://up1.autodesk.com/prd/2026/RVT/4452600D-8F5F-3CBC-83DF-A86EC34FD930/Revit_2026_3_0.exe
+
 ## Revit2025
 
 - https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/RVT/686CE2A3-7C33-3AD5-806A-75A6E648117F/SFX/Revit_2025_English_Win_64bit_dlm_001_002.exe
