@@ -14,6 +14,23 @@
 
 如果你发现新的 Autodesk 官方下载链接、补丁链接，或某个链接已经失效，欢迎提交 Issue 或 Pull Request。请尽量提供来自 Autodesk 官方域名的链接，并注明对应的 Revit 版本与补丁版本。
 
+## Revit2027
+
+### 安装包
+
+1. [RVT_2027_NA_win_db_001_002.exe](https://dds.autodesk.com/NetSWDLD/ODIS/prd/2027/RVT/8CA3AC7D-FAD3-34CE-B228-4EE1B50E2D3E/SFX/RVT_2027_NA_win_db_001_002.exe)
+2. [RVT_2027_NA_win_db_002_002.7z](https://dds.autodesk.com/NetSWDLD/ODIS/prd/2027/RVT/8CA3AC7D-FAD3-34CE-B228-4EE1B50E2D3E/SFX/RVT_2027_NA_win_db_002_002.7z)
+
+### 补丁
+
+#### 2027.0.1
+
+- [Revit_2027_0_1.exe](https://up1.autodesk.com/prd/2027/RVT/6E6E58A3-176B-322D-AD62-83415301145B/Revit_2027_0_1.exe)
+
+#### 2027.0.2
+
+- [Revit_2027_0_2.exe](https://up1.autodesk.com/prd/2027/RVT/664BBF3C-085B-3CD3-A465-2AA5312BEA82/Revit_2027_0_2.exe)
+
 ## Revit2026
 
 ### 安装包
