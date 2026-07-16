@@ -31,6 +31,45 @@
 
 - [Revit_2027_0_2.exe](https://up1.autodesk.com/prd/2027/RVT/664BBF3C-085B-3CD3-A465-2AA5312BEA82/Revit_2027_0_2.exe)
 
+### 族库和样板库
+
+1. [Revit 2027 64位美国族库和样板库](https://up1.autodesk.com/prd/2027/RVT/94194548-956B-3D8A-A9C3-D58781C1623D/RVTCPENU.exe)
+2. [Revit 2027 64位英国族库和样板库](https://up1.autodesk.com/prd/2027/RVT/38E8D4B3-19D5-38C7-B724-EE7D24D56C2F/RVTCPENG.exe)
+3. [Revit 2027 64位澳大利亚族库和样板库](https://up1.autodesk.com/prd/2027/RVT/4269ECB2-9EF5-3C35-AD5E-13520A0D2DA2/RVTCPENAUS.exe)
+4. [Revit 2027 64位比利时族库和样板库](https://up1.autodesk.com/prd/2027/RVT/0774B6AA-2BBA-3EC1-B8BD-FB362D1BF614/RVTCPENBELGIUM.exe)
+5. [Revit 2027 64位加拿大族库和样板库](https://up1.autodesk.com/prd/2027/RVT/B90DE658-B456-3472-A0F4-52399CCAE222/RVTCPENCAN.exe)
+6. [Revit 2027 64位丹麦族库和样板库](https://up1.autodesk.com/prd/2027/RVT/A4E037DB-21D5-3EC8-AF45-4EA19B046465/RVTCPENDENMARK.exe)
+7. [Revit 2027 64位埃及族库和样板库](https://up1.autodesk.com/prd/2027/RVT/34CD45FA-8AED-3FEB-8318-7B729F459087/RVTCPENEGYPT.exe)
+8. [Revit 2027 64位芬兰族库和样板库](https://up1.autodesk.com/prd/2027/RVT/FB6B7781-BB7E-3D3A-A20C-D39A0A71532B/RVTCPENFINLAND.exe)
+9. [Revit 2027 64位希腊族库和样板库](https://up1.autodesk.com/prd/2027/RVT/A8B264EA-FD0A-3A69-9693-850ACFCACAB8/RVTCPENGREECE.exe)
+10. [Revit 2027 64位香港族库和样板库](https://up1.autodesk.com/prd/2027/RVT/FA9EDB89-28AA-3EE5-828A-1B8C348D9C7C/RVTCPENHONGKONG.exe)
+11. [Revit 2027 64位冰岛族库和样板库](https://up1.autodesk.com/prd/2027/RVT/998D3B1A-6869-398F-9DCB-E0A61E7F2412/RVTCPENICELAND.exe)
+12. [Revit 2027 64位印度族库和样板库](https://up1.autodesk.com/prd/2027/RVT/566371BC-23FC-3C3C-AE0A-7BE4075BB6E5/RVTCPENINDIA.exe)
+13. [Revit 2027 64位马来西亚族库和样板库](https://up1.autodesk.com/prd/2027/RVT/5F13E026-9258-36C7-9BB1-9D987408F635/RVTCPENMALAYSIA.exe)
+14. [Revit 2027 64位荷兰族库和样板库](https://up1.autodesk.com/prd/2027/RVT/BCF9FAA8-0656-3FED-90B8-99A4E3914783/RVTCPENNETHERLANDS.exe)
+15. [Revit 2027 64位新西兰族库和样板库](https://up1.autodesk.com/prd/2027/RVT/615FF943-4B76-3C3E-AA80-B7F1D0792E6B/RVTCPENNZL.exe)
+16. [Revit 2027 64位挪威族库和样板库](https://up1.autodesk.com/prd/2027/RVT/0E366D6A-5E56-351D-9736-32F7FBF07DDF/RVTCPENNORWAY.exe)
+17. [Revit 2027 64位葡萄牙族库和样板库](https://up1.autodesk.com/prd/2027/RVT/CE0356F3-7885-3E57-BB8C-304D342C1D9F/RVTCPENPORTUGAL.exe)
+18. [Revit 2027 64位罗马尼亚族库和样板库](https://up1.autodesk.com/prd/2027/RVT/ABF2BC9B-325A-3F53-8AD4-E132DBBBB24B/RVTCPENROMANIA.exe)
+19. [Revit 2027 64位新加坡族库和样板库](https://up1.autodesk.com/prd/2027/RVT/5F6FB47D-6FF1-3F71-B3E1-131603711EF9/RVTCPENSINGAPORE.exe)
+20. [Revit 2027 64位南非族库和样板库](https://up1.autodesk.com/prd/2027/RVT/703080BE-42D0-3BAE-B25E-AF33E9A7C268/RVTCPENSAFRICA.exe)
+21. [Revit 2027 64位南亚族库和样板库](https://up1.autodesk.com/prd/2027/RVT/B8B8C002-5600-355C-B8F5-2684A8384AA0/RVTCPENSASIA.exe)
+22. [Revit 2027 64位瑞典族库和样板库](https://up1.autodesk.com/prd/2027/RVT/1566A199-751A-360A-9740-031F39BC3AD9/RVTCPENSWEDEN.exe)
+23. [Revit 2027 64位泰国族库和样板库](https://up1.autodesk.com/prd/2027/RVT/6EA77EE9-07FC-3403-A107-0AFD99392239/RVTCPENTHAILAND.exe)
+24. [Revit 2027 64位欧洲族库和样板库](https://up1.autodesk.com/prd/2027/RVT/F10E8F1A-E2D8-3619-84D5-4320A0D7AC8E/RVTCPENEURO.exe)
+25. [Revit 2027 64位中国大陆族库和样板库](https://up1.autodesk.com/prd/2027/RVT/11749E83-0661-3F57-9B1E-1D8C9ADF5001/RVTCPCHS.exe)
+26. [Revit 2027 64位香港台湾澳门族库和样板库](https://up1.autodesk.com/prd/2027/RVT/8916A181-2321-3141-BDEA-07E029DD43DB/RVTCPCHT.exe)
+27. [Revit 2027 64位捷克族库和样板库](https://up1.autodesk.com/prd/2027/RVT/D35A7D93-87BE-3D94-9FBB-5C42A9C58F21/RVTCPCSY.exe)
+28. [Revit 2027 64位法国族库和样板库](https://up1.autodesk.com/prd/2027/RVT/D1F0E7F4-AB8A-380B-AB48-5B17BD8C4B4B/RVTCPFRA.exe)
+29. [Revit 2027 64位德国族库和样板库](https://up1.autodesk.com/prd/2027/RVT/E66F9781-CC9D-3625-88F2-BE4479340F82/RVTCPDEU.exe)
+30. [Revit 2027 64位意大利族库和样板库](https://up1.autodesk.com/prd/2027/RVT/479C15A3-59CC-3EC3-B87D-C2D77FC278AF/RVTCPITA.exe)
+31. [Revit 2027 64位日本族库和样板库](https://up1.autodesk.com/prd/2027/RVT/39077595-AF37-3BC2-863C-6B879DD81F4A/RVTCPJPN.exe)
+32. [Revit 2027 64位朝鲜族库和样板库](https://up1.autodesk.com/prd/2027/RVT/02CA0323-5E4E-39F4-A421-E10822116946/RVTCPKOR.exe)
+33. [Revit 2027 64位波兰族库和样板库](https://up1.autodesk.com/prd/2027/RVT/6E028245-64F8-3B7A-B87D-F0C9C3E95651/RVTCPPLK.exe)
+34. [Revit 2027 64位葡萄牙巴西国际标准族库和样板库](https://up1.autodesk.com/prd/2027/RVT/28C6F6D2-A15F-38C5-AC82-09DA1F3A5DFE/RVTCPPTB.exe)
+35. [Revit 2027 64位西班牙族库和样板库](https://up1.autodesk.com/prd/2027/RVT/D738E093-E620-3DB5-B1CA-4AC5FD5BFA94/RVTCPESP.exe)
+36. [Revit 2027 64位俄罗斯族库和样板库](https://up1.autodesk.com/prd/2027/RVT/A1EC11BD-7096-3D17-A533-DF747139FAF2/RVTCPRUS.exe)
+
 ## Revit2026
 
 ### 安装包
