@@ -179,6 +179,10 @@
 
 #### 2022.1.2
 
+- [Revit_2022_1_2.exe](http://up.autodesk.com/2022/RVT/790C3C40-E32A-3979-81CB-AEA5578DD49C/Revit_2022_1_2.exe)
+
+#### 2022.1.3
+
 - [Revit_2022_1_3.exe](https://up.autodesk.com/2022/RVT/53145925-644C-37B7-AE17-96C73062A832//Revit_2022_1_3.exe)
 
 #### 2022.1.4
@@ -188,6 +192,18 @@
 #### 2022.1.5
 
 - [Revit_2022_1_5.exe](http://up.autodesk.com/2022/RVT/8E096FF3-E975-3C15-9AF7-3F216B908901//Revit_2022_1_5.exe)
+
+#### 2022.1.6
+
+- [Revit_2022_1_6.exe](https://up.autodesk.com/NetSWCOM/prd/RVT/5573A5FE-73D0-37AD-940E-5131A6038229//Revit_2022_1_6.exe)
+
+#### 2022.1.7
+
+- [Revit_2022_1_7.exe](http://up.autodesk.com/NetSWCOM/prd/2022/RVT/D2FE9236-4E5E-3450-8ED2-272AF89C9F74/Revit_2022_1_7.exe)
+
+#### 2022.1.8
+
+- [Revit_2022_1_8.exe](https://up1.autodesk.com/NetSWCOM/prd/2022/RVT/CFAEE3C8-36F0-3DF4-964A-185EB42271F5/Revit_2022_1_8.exe)
 
 ## Revit2021
 
