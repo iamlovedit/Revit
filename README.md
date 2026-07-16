@@ -285,6 +285,10 @@
 
 - [Revit_2021_1_9.exe](https://up.autodesk.com/2021/RVT/9CA05B9A-2115-0510-A1B4-FFF7A680FE55/Revit_2021_1_9.exe)
 
+#### 2021.1.10
+
+- [Revit_2021_1_10.exe](https://up.autodesk.com/NetSWCOM/prd/RVT/9CA05B9A-2116-0510-A1B4-FFF7A680FE55/Revit_2021_1_10.exe)
+
 ## Revit2020
 
 ### 安装包
