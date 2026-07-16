@@ -143,6 +143,10 @@
 
 #### 2023.1
 
+- [Revit_2023_1.exe](http://up.autodesk.com/2023/RVT/6F97B6CD-8694-3D65-907F-C470CD1FF939/Revit_2023_1.exe)
+
+#### 2023.1.1
+
 - [Revit_2023_1_1.exe](https://up.autodesk.com/2023/RVT/EBB50AA0-9CD0-3939-9923-46F117D5B8A2/Revit_2023_1_1.exe)
 
 #### 2023.1.1.1
@@ -152,6 +156,34 @@
 #### 2023.1.2
 
 - [Revit_2023_1_2.exe](https://up.autodesk.com/2023/RVT/31217BB7-CA6E-3911-81D5-23D1783EEC8B/Revit_2023_1_2.exe)
+
+#### 2023.1.3
+
+- [Revit_2023_1_3.exe](https://up1.autodesk.com/2023/RVT/F8B19ED3-0B5F-3CF2-BA38-8EA54DECEE24/Revit_2023_1_3.exe)
+
+#### 2023.1.4
+
+- [Revit_2023_1_4.exe](https://up.autodesk.com/NetSWCOM/prd/RVT/452BDBCA-1F00-3B7F-8319-72EBF00CBF75/Revit_2023_1_4.exe)
+
+#### 2023.1.5
+
+- [Revit_2023_1_5.exe](https://up1.autodesk.com/NetSWCOM/prd/2023/RVT/48927256-12BC-37EF-930A-F1305330F387/Revit_2023_1_5.exe)
+
+#### 2023.1.6
+
+- [Revit_2023_1_6.exe](https://up1.autodesk.com/NetSWCOM/prd/2023/RVT/F05F1B9A-0CDB-3B3F-B461-46B603F6AF41/Revit_2023_1_6.exe)
+
+#### 2023.1.7
+
+- [Revit_2023_1_7.exe](https://up1.autodesk.com/prd/2023/RVT/0E56FEDC-2AEF-3190-8C71-C586291ABB39/Revit_2023_1_7.exe)
+
+#### 2023.1.8
+
+- [Revit_2023_1_8.exe](https://up1.autodesk.com/prd/2023/RVT/3C737C84-E862-3238-B31E-31B649852425/Revit_2023_1_8.exe)
+
+#### 2023.1.9
+
+- [Revit_2023_1_9.exe](https://up1.autodesk.com/prd/2023/RVT/D69C6E92-2902-3415-8D9F-5A4B4E659EAF/Revit_2023_1_9.exe)
 
 ## Revit2022
 
