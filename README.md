@@ -121,6 +121,38 @@
 
 - [Revit_2024_2_0.exe](https://up1.autodesk.com/2024/RVT/F08F7B8A-0A88-3F46-ABBD-7F60758D885A/Revit_2024_2_0.exe)
 
+#### 2024.2.1
+
+- [Revit_2024_2_1.exe](https://up1.autodesk.com/NetSWCOM/prd/RVT/FA3F6CCA-7212-3AC4-8161-4D8C7DDEF670/Revit_2024_2_1.exe)
+
+#### 2024.2.2
+
+- [Revit_2024_2_2.exe](https://up1.autodesk.com/NetSWCOM/prd/2024/RVT/41B10980-9B32-357E-A3FA-2FE2E443D3AC/Revit_2024_2_2.exe)
+
+#### 2024.3
+
+- [Revit_2024_3_0.exe](https://up1.autodesk.com/NetSWCOM/prd/2024/RVT/2BF66D7E-FA26-3D86-9B25-3E85BFDD0EED//Revit_2024_3_0.exe)
+
+#### 2024.3.1
+
+- [Revit_2024_3_1.exe](https://up1.autodesk.com/NetSWCOM/prd/2024/RVT/45CFC94C-F8F1-3BE9-BBA0-BFFDB1E72331/Revit_2024_3_1.exe)
+
+#### 2024.3.2
+
+- [Revit_2024_3_2.exe](https://up1.autodesk.com/prd/2024/RVT/B096269E-6C6C-3911-8791-E112C899930A/Revit_2024_3_2.exe)
+
+#### 2024.3.3
+
+- [Revit_2024_3_3.exe](https://up1.autodesk.com/prd/2024/RVT/3F26BAA1-C57B-3EBA-9443-36192F5B9C53/Revit_2024_3_3.exe)
+
+#### 2024.3.4
+
+- [Revit_2024_3_4.exe](https://up1.autodesk.com/prd/2024/RVT/332FFF52-D212-3871-8CED-BA3CA020A1D9/Revit_2024_3_4.exe)
+
+#### 2024.3.5
+
+- [Revit_2024_3_5.exe](https://up1.autodesk.com/prd/2024/RVT/9618400B-BADE-3BA7-9A22-582A14DC30F3/Revit_2024_3_5.exe)
+
 ## Revit2023
 
 ### 安装包
