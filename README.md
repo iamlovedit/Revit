@@ -56,6 +56,18 @@
 
 - [Revit_2026_3_0.exe](https://up1.autodesk.com/prd/2026/RVT/4452600D-8F5F-3CBC-83DF-A86EC34FD930/Revit_2026_3_0.exe)
 
+#### 2026.4
+
+- [Revit_2026_4_0.exe](https://up1.autodesk.com/prd/2026/RVT/8B8F57BC-1883-3B67-957B-D23EF083B0F2/Revit_2026_4_0.exe)
+
+#### 2026.4.1
+
+- [Revit_2026_4_1.exe](https://up1.autodesk.com/prd/2026/RVT/A5D9AED5-BA3C-3185-8684-E3E9FBEB0354/Revit_2026_4_1.exe)
+
+#### 2026.4.2
+
+- [Revit_2026_4_2.exe](https://up1.autodesk.com/prd/2026/RVT/2B5528AA-56F1-3A19-948A-6E5ED766369C/Revit_2026_4_2.exe)
+
 ## Revit2025
 
 ### 安装包
@@ -92,6 +104,14 @@
 #### 2025.4.3
 
 - [Revit_2025_4_3.exe](https://up1.autodesk.com/prd/2025/RVT/7B1DED9E-4524-360B-A232-BE9D9B5FDC6B/Revit_2025_4_3.exe)
+
+#### 2025.4.4
+
+- [Revit_2025_4_4.exe](https://up1.autodesk.com/prd/2025/RVT/A7D6E917-7D12-3367-B800-1DD124035B8F/Revit_2025_4_4.exe)
+
+#### 2025.4.5
+
+- [Revit_2025_4_5.exe](https://up1.autodesk.com/prd/2025/RVT/95A7CC57-0325-3A8D-BB3A-E009055B9B3D/Revit_2025_4_5.exe)
 
 ## Revit2024
 
