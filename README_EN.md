@@ -201,6 +201,43 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2025_4_5.exe](https://up1.autodesk.com/prd/2025/RVT/95A7CC57-0325-3A8D-BB3A-E009055B9B3D/Revit_2025_4_5.exe)
 
+### Family and Template Libraries
+
+1. [Revit 2025 64-bit Australia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/00479154-B7E1-357E-ACD3-D6886ED1A48B/RVTCPENAUS.exe)
+2. [Revit 2025 64-bit Belgium Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/56BB6F96-52BD-3F81-B72F-7F53E9181AC6/RVTCPENBELGIUM.exe)
+3. [Revit 2025 64-bit Canada Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/5C79688E-8B89-33D3-96A0-5FDEB01AC7F8/RVTCPENCAN.exe)
+4. [Revit 2025 64-bit Denmark Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/84F2F984-ED8B-306A-B0CB-608E0A42C9E3/RVTCPENDENMARK.exe)
+5. [Revit 2025 64-bit Egypt Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/3DA6A0A3-C8A1-3CAB-BB5C-E18F81BC6DEA/RVTCPENEGYPT.exe)
+6. [Revit 2025 64-bit Finland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/E0BE3ED6-1004-3C4F-B19E-E66A6757B8C0/RVTCPENFINLAND.exe)
+7. [Revit 2025 64-bit Greece Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A1B2BA86-2699-3D3F-8328-9CC798BE4C04/RVTCPENGREECE.exe)
+8. [Revit 2025 64-bit Hong Kong Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/36F80F7D-0E72-3DD8-AA85-8771CF7E5895/RVTCPENHONGKONG.exe)
+9. [Revit 2025 64-bit Iceland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/5DD8E94F-FED6-3B36-B3CC-78C5DEDE48D5/RVTCPENICELAND.exe)
+10. [Revit 2025 64-bit India Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF5C606-EBF4-3862-9EE3-873260152EB3/RVTCPENINDIA.exe)
+11. [Revit 2025 64-bit Malaysia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A4BC59B3-9534-3BDF-AE4B-B1792496478C/RVTCPENMALAYSIA.exe)
+12. [Revit 2025 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/BEAFCE9F-10CF-3EC6-8779-91FCF3B25FE5/RVTCPENNETHERLANDS.exe)
+13. [Revit 2025 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/62D64A9F-0361-3C82-939A-9075E18C5781/RVTCPENNZL.exe)
+14. [Revit 2025 64-bit Norway Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/07BD9EB9-5AEA-3FAE-84C6-087EF041A731/RVTCPENNORWAY.exe)
+15. [Revit 2025 64-bit Portugal Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/E15004EC-6AA5-314D-8A96-869F3D4A622A/RVTCPENPORTUGAL.exe)
+16. [Revit 2025 64-bit Romania Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A2AEA630-ED9B-3087-B65B-E185C65DE289/RVTCPENROMANIA.exe)
+17. [Revit 2025 64-bit Singapore Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/149001EF-F5EA-3333-91B8-13D91608A246/RVTCPENSINGAPORE.exe)
+18. [Revit 2025 64-bit South Africa Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/AC4570E4-7E70-3A8C-A37C-73DB5C45BC49/RVTCPENSAFRICA.exe)
+19. [Revit 2025 64-bit South Asia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/1D161EFE-9C17-3D80-91B7-EC80F85A3858/RVTCPENSASIA.exe)
+20. [Revit 2025 64-bit Sweden Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/53ABDC40-392C-3EAD-9C06-34F539C98FF8/RVTCPENSWEDEN.exe)
+21. [Revit 2025 64-bit Thailand Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/445575FA-F5C1-3C93-AFC5-F20D1D47722E/RVTCPENTHAILAND.exe)
+22. [Revit 2025 64-bit Europe Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/C494A2A8-DB0B-378D-AA2A-7FA2FA2ABE63/RVTCPENEURO.exe)
+23. [Revit 2025 64-bit China Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/820C0609-E380-3A17-A790-5DCC8709EC39/RVTCPGENCHS.exe)
+24. [Revit 2025 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A75508CC-DDB3-3BFE-8806-5F434BD60A92/RVTCPCHT.exe)
+25. [Revit 2025 64-bit Czech Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/09C95DB2-CE44-3F9D-9D6E-1F365F982E45/RVTCPGENCSY.exe)
+26. [Revit 2025 64-bit France Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/D1EC1E66-2BAF-3CDE-87EF-DDFA024C8CCC/RVTCPGENFRA.exe)
+27. [Revit 2025 64-bit Germany Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF34207-01A0-3BE4-A673-E31AA9980832/RVTCPDEU.exe)
+28. [Revit 2025 64-bit Italy Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/7F20E6E3-39A9-35C3-BCA0-86F6A4CA3EFE/RVTCPGENITA.exe)
+29. [Revit 2025 64-bit Japan Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/204EE000-3BBB-35C5-A0DD-AE6E0C57898B/RVTCPGENJPN.exe)
+30. [Revit 2025 64-bit Korea Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/074C7258-B73F-3E04-9048-657CD8C0414B/RVTCPGENKOR.exe)
+31. [Revit 2025 64-bit Poland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/59F45202-8076-326B-8A2D-659966FB2C11/RVTCPPLK.exe)
+32. [Revit 2025 64-bit Brazil Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/790B4AD9-0AFD-366D-A62D-901C4396F8BF/RVTCPGENPTB.exe)
+33. [Revit 2025 64-bit Spain Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/ED720DEA-9C33-3CD0-B71E-2DE702BFE757/RVTCPGENESP.exe)
+34. [Revit 2025 64-bit Russia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/C262045D-A7AA-33FD-9CA8-7F4BB84B2516/RVTCPGENRUS.exe)
+
 ## Revit2024
 
 ### Installation Package
