@@ -509,6 +509,33 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2022_1_8.exe](https://up1.autodesk.com/NetSWCOM/prd/2022/RVT/CFAEE3C8-36F0-3DF4-964A-185EB42271F5/Revit_2022_1_8.exe)
 
+### Family and Template Libraries
+
+1. [Revit 2022 Content Libraries China Family Extension Pack](https://up.autodesk.com/2022/RVT/8A269526-700F-38F4-A481-25BB1B628B9A/RVTCPCHS.exe)
+2. [Revit 2022 Content Libraries Taiwan Family Extension Pack](https://up.autodesk.com/2022/RVT/EFEEFE3F-516F-3854-BCD4-5DB00222AFF6//RVTCPCHT.exe)
+3. [Revit 2022 Content Libraries Egypt Family Library](https://up.autodesk.com/2022/RVT/2226B083-F772-37E3-AA9C-F40F298941F3/RVTCPENEGYPT.exe)
+4. [Revit 2022 Content Libraries Canada Family Library](https://up.autodesk.com/2022/RVT/9A052150-95FA-315C-B7CA-CCBBCCB9A7C5/RVTCPENCAN.exe)
+5. [Revit 2022 Content Libraries Denmark Family Library](https://up.autodesk.com/2022/RVT/DF2F4730-4CEF-39A2-B7B3-9FC910F90369/RVTCPENDENMARK.exe)
+6. [Revit 2022 Content Libraries France Family Library](https://up.autodesk.com/2022/RVT/9AE453D0-9164-3DC7-BC41-A2532F16E951/RVTCPFRA.exe)
+7. [Revit 2022 Content Libraries Singapore Family Library](https://up.autodesk.com/2022/RVT/6F2CEA7C-6231-3688-BCA1-24E2A22D4A2B/RVTCPENSINGAPORE.exe)
+8. [Revit 2022 Content Libraries South Africa Family Library](https://up.autodesk.com/2022/RVT/47CB21CB-4ECE-3859-A07E-D2FCAD13F9D8/RVTCPENSAFRICA.exe)
+9. [Revit 2022 Content Libraries Spain Family Library](https://up.autodesk.com/2022/RVT/C2445E35-54AC-3702-A509-7BF5CC67B8A4//RVTCPESP.exe)
+10. [Revit 2022 Content Libraries Russia Family Library](https://up.autodesk.com/2022/RVT/0DE311E2-DA98-3B27-8F35-40939763ABE7//RVTCPRUS.exe)
+11. [Revit 2022 Content Libraries Poland Family Library](https://up.autodesk.com/2022/RVT/261D44C4-312C-3EA2-B578-865EE73B465C//RVTCPPLK.exe)
+12. [Revit 2022 Content Libraries Korea Family Library](https://up.autodesk.com/2022/RVT/0918C180-1BB5-3152-A8F8-FC225883A48F//RVTCPKOR.exe)
+13. [Revit 2022 Content Libraries Italy Family Library](https://up.autodesk.com/2022/RVT/7F57DBF2-079D-3E70-989C-7DD00DA707C9//RVTCPITA.exe)
+14. [Revit 2022 Content Libraries Czech Family Library](https://up.autodesk.com/2022/RVT/E8D54E74-9521-3F8B-BACF-FD3A2381CA2F//RVTCPCSY.exe)
+15. [Revit 2022 Content Libraries Brazil Portuguese Family Library](https://up.autodesk.com/2022/RVT/B9C42284-2173-3859-AA04-EE45CC2B3E19//RVTCPPTB.exe)
+16. [Revit 2022 Content Libraries Thailand Family Library](https://up.autodesk.com/2022/RVT/005ABFBC-C8FE-3523-BA95-2AD5F7DC1974//RVTCPENTHAILAND.exe)
+17. [Revit 2022 Content Libraries Sweden Family Library](https://up.autodesk.com/2022/RVT/C575DE4D-C597-37D6-B843-D18FD6B00401//RVTCPENSWEDEN.exe)
+18. [Revit 2022 Content Libraries South Africa Family Library](https://up.autodesk.com/2022/RVT/47CB21CB-4ECE-3859-A07E-D2FCAD13F9D8//RVTCPENSAFRICA.exe)
+19. [Revit 2022 Content Libraries South Asia and Southeast Asia Family Library](https://up.autodesk.com/2022/RVT/F6CAA344-7CBA-3741-804C-417669299DAA//RVTCPENSASIA.exe)
+20. [Revit 2022 Content Libraries Romania Family Library](https://up.autodesk.com/2022/RVT/E3010F8F-4709-37A0-A350-EF9748E1448F//RVTCPENROMANIA.exe)
+21. [Revit 2022 Content Libraries Germany Family Library](https://up.autodesk.com/2022/RVT/69D22CB6-23CB-3B31-A8FE-BFCFA2953138/RVTCPDEU.exe)
+22. [Revit 2022 Content Libraries Japan Family Library](https://up.autodesk.com/2022/RVT/74907384-7487-3863-A3A5-F4301B5662B9/RVTCPJPN.exe)
+23. [Revit 2022 Content Libraries UK Family Library](https://up.autodesk.com/2022/RVT/013E135A-0414-3D38-ACAA-AD84529FE856/RVTCPENG.exe)
+24. [Revit 2022 Content Libraries US Family Library](https://up.autodesk.com/2022/RVT/B8322C50-CA90-339E-80AD-A11ABA519F7E/RVTCPENU.exe)
+
 ## Revit2021
 
 ### Installation Package
