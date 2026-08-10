@@ -29,6 +29,10 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2027_0_2.exe](https://up1.autodesk.com/prd/2027/RVT/664BBF3C-085B-3CD3-A465-2AA5312BEA82/Revit_2027_0_2.exe)
 
+#### 2027.2.0
+
+- [Revit_2027_2_0.exe](https://up1.autodesk.com/prd/2027/RVT/8C95356B-C1ED-35EE-9E4E-BCD718965B71/Revit_2027_2_0.exe)
+
 ### Family and Template Libraries
 
 1. [Revit 2027 64-bit US Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/94194548-956B-3D8A-A9C3-D58781C1623D/RVTCPENU.exe)
