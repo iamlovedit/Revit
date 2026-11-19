@@ -221,6 +221,18 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2025_4_5.exe](https://up1.autodesk.com/prd/2025/RVT/95A7CC57-0325-3A8D-BB3A-E009055B9B3D/Revit_2025_4_5.exe)
 
+#### 2025.4.6
+
+- [Revit_2025_4_6.exe](https://up1.autodesk.com/prd/2025/RVT/C0A30C8C-98D9-3266-87C7-8D931A8030DB/Revit_2025_4_6.exe)
+
+#### 2025.5
+
+- [Revit_2025_5_0.exe](https://up1.autodesk.com/prd/2025/RVT/F32F2CB6-6C22-37FE-AD02-5D1EFC2662E5/Revit_2025_5_0.exe)
+
+#### 2025.5.1
+
+- [Revit_2025_5_1.exe](https://up1.autodesk.com/prd/2025/RVT/C456C79D-6294-3CC6-AD7B-3D73C9F3FD5D/Revit_2025_5_1.exe)
+
 ### Family and Template Libraries
 
 1. [Revit 2025 64-bit Australia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/00479154-B7E1-357E-ACD3-D6886ED1A48B/RVTCPENAUS.exe)
@@ -317,6 +329,10 @@ If you find new Autodesk official download links, patch links, or broken links, 
 #### 2024.3.5
 
 - [Revit_2024_3_5.exe](https://up1.autodesk.com/prd/2024/RVT/9618400B-BADE-3BA7-9A22-582A14DC30F3/Revit_2024_3_5.exe)
+
+#### 2024.3.6
+
+- [Revit_2024_3_6.exe](https://up1.autodesk.com/prd/2024/RVT/39BF1BBE-604B-37ED-B56D-F5C431A6ED3E/Revit_2024_3_6.exe)
 
 ### Family and Template Libraries
 
