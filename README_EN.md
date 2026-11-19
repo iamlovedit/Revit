@@ -33,6 +33,14 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2027_2_0.exe](https://up1.autodesk.com/prd/2027/RVT/8C95356B-C1ED-35EE-9E4E-BCD718965B71/Revit_2027_2_0.exe)
 
+#### 2027.3.0
+
+- [Revit_2027_3_0.exe](https://up1.autodesk.com/prd/2027/RVT/0693A4D4-C06B-36BC-A5C0-F523A122636B/Revit_2027_3_0.exe)
+
+#### 2027.4.0
+
+- [Revit_2027_4_0.exe](https://up1.autodesk.com/prd/2027/RVT/DEDF2A63-8024-3AAC-8ED0-2371AED865AE/Revit_2027_4_0.exe)
+
 ### Family and Template Libraries
 
 1. [Revit 2027 64-bit US Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/94194548-956B-3D8A-A9C3-D58781C1623D/RVTCPENU.exe)
@@ -112,6 +120,10 @@ If you find new Autodesk official download links, patch links, or broken links, 
 #### 2026.5.0
 
 - [Revit_2026_5_0.exe](https://up1.autodesk.com/prd/2026/RVT/3D02BAC8-4F1F-38CD-92F0-1060D0FA2FE4/Revit_2026_5_0.exe)
+
+#### 2026.5.1
+
+- [Revit_2026_5_1.exe](https://up1.autodesk.com/prd/2026/RVT/797BF334-A31D-3ADD-BD07-6E1D12CDA468/Revit_2026_5_1.exe)
 
 ### Family and Template Libraries
 
