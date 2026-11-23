@@ -47,42 +47,44 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2027 64-bit US Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/94194548-956B-3D8A-A9C3-D58781C1623D/RVTCPENU.exe)
-2. [Revit 2027 64-bit UK Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/38E8D4B3-19D5-38C7-B724-EE7D24D56C2F/RVTCPENG.exe)
-3. [Revit 2027 64-bit Australia Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/4269ECB2-9EF5-3C35-AD5E-13520A0D2DA2/RVTCPENAUS.exe)
-4. [Revit 2027 64-bit Belgium Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/0774B6AA-2BBA-3EC1-B8BD-FB362D1BF614/RVTCPENBELGIUM.exe)
-5. [Revit 2027 64-bit Canada Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/B90DE658-B456-3472-A0F4-52399CCAE222/RVTCPENCAN.exe)
-6. [Revit 2027 64-bit Denmark Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/A4E037DB-21D5-3EC8-AF45-4EA19B046465/RVTCPENDENMARK.exe)
-7. [Revit 2027 64-bit Egypt Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/34CD45FA-8AED-3FEB-8318-7B729F459087/RVTCPENEGYPT.exe)
-8. [Revit 2027 64-bit Finland Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/FB6B7781-BB7E-3D3A-A20C-D39A0A71532B/RVTCPENFINLAND.exe)
-9. [Revit 2027 64-bit Greece Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/A8B264EA-FD0A-3A69-9693-850ACFCACAB8/RVTCPENGREECE.exe)
-10. [Revit 2027 64-bit Hong Kong Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/FA9EDB89-28AA-3EE5-828A-1B8C348D9C7C/RVTCPENHONGKONG.exe)
-11. [Revit 2027 64-bit Iceland Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/998D3B1A-6869-398F-9DCB-E0A61E7F2412/RVTCPENICELAND.exe)
-12. [Revit 2027 64-bit India Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/566371BC-23FC-3C3C-AE0A-7BE4075BB6E5/RVTCPENINDIA.exe)
-13. [Revit 2027 64-bit Malaysia Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/5F13E026-9258-36C7-9BB1-9D987408F635/RVTCPENMALAYSIA.exe)
-14. [Revit 2027 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/BCF9FAA8-0656-3FED-90B8-99A4E3914783/RVTCPENNETHERLANDS.exe)
-15. [Revit 2027 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/615FF943-4B76-3C3E-AA80-B7F1D0792E6B/RVTCPENNZL.exe)
-16. [Revit 2027 64-bit Norway Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/0E366D6A-5E56-351D-9736-32F7FBF07DDF/RVTCPENNORWAY.exe)
-17. [Revit 2027 64-bit Portugal Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/CE0356F3-7885-3E57-BB8C-304D342C1D9F/RVTCPENPORTUGAL.exe)
-18. [Revit 2027 64-bit Romania Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/ABF2BC9B-325A-3F53-8AD4-E132DBBBB24B/RVTCPENROMANIA.exe)
-19. [Revit 2027 64-bit Singapore Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/5F6FB47D-6FF1-3F71-B3E1-131603711EF9/RVTCPENSINGAPORE.exe)
-20. [Revit 2027 64-bit South Africa Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/703080BE-42D0-3BAE-B25E-AF33E9A7C268/RVTCPENSAFRICA.exe)
-21. [Revit 2027 64-bit South Asia Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/B8B8C002-5600-355C-B8F5-2684A8384AA0/RVTCPENSASIA.exe)
-22. [Revit 2027 64-bit Sweden Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/1566A199-751A-360A-9740-031F39BC3AD9/RVTCPENSWEDEN.exe)
-23. [Revit 2027 64-bit Thailand Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/6EA77EE9-07FC-3403-A107-0AFD99392239/RVTCPENTHAILAND.exe)
-24. [Revit 2027 64-bit Europe Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/F10E8F1A-E2D8-3619-84D5-4320A0D7AC8E/RVTCPENEURO.exe)
-25. [Revit 2027 64-bit China Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/11749E83-0661-3F57-9B1E-1D8C9ADF5001/RVTCPCHS.exe)
-26. [Revit 2027 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/8916A181-2321-3141-BDEA-07E029DD43DB/RVTCPCHT.exe)
-27. [Revit 2027 64-bit Czech Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/D35A7D93-87BE-3D94-9FBB-5C42A9C58F21/RVTCPCSY.exe)
-28. [Revit 2027 64-bit France Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/D1F0E7F4-AB8A-380B-AB48-5B17BD8C4B4B/RVTCPFRA.exe)
-29. [Revit 2027 64-bit Germany Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/E66F9781-CC9D-3625-88F2-BE4479340F82/RVTCPDEU.exe)
-30. [Revit 2027 64-bit Italy Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/479C15A3-59CC-3EC3-B87D-C2D77FC278AF/RVTCPITA.exe)
-31. [Revit 2027 64-bit Japan Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/39077595-AF37-3BC2-863C-6B879DD81F4A/RVTCPJPN.exe)
-32. [Revit 2027 64-bit Korea Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/02CA0323-5E4E-39F4-A421-E10822116946/RVTCPKOR.exe)
-33. [Revit 2027 64-bit Poland Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/6E028245-64F8-3B7A-B87D-F0C9C3E95651/RVTCPPLK.exe)
-34. [Revit 2027 64-bit Brazil Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/28C6F6D2-A15F-38C5-AC82-09DA1F3A5DFE/RVTCPPTB.exe)
-35. [Revit 2027 64-bit Spain Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/D738E093-E620-3DB5-B1CA-4AC5FD5BFA94/RVTCPESP.exe)
-36. [Revit 2027 64-bit Russia Family and Template Library](https://up1.autodesk.com/prd/2027/RVT/A1EC11BD-7096-3D17-A533-DF747139FAF2/RVTCPRUS.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| US | [Download](https://up1.autodesk.com/prd/2027/RVT/94194548-956B-3D8A-A9C3-D58781C1623D/RVTCPENU.exe) |
+| UK | [Download](https://up1.autodesk.com/prd/2027/RVT/38E8D4B3-19D5-38C7-B724-EE7D24D56C2F/RVTCPENG.exe) |
+| Australia | [Download](https://up1.autodesk.com/prd/2027/RVT/4269ECB2-9EF5-3C35-AD5E-13520A0D2DA2/RVTCPENAUS.exe) |
+| Belgium | [Download](https://up1.autodesk.com/prd/2027/RVT/0774B6AA-2BBA-3EC1-B8BD-FB362D1BF614/RVTCPENBELGIUM.exe) |
+| Canada | [Download](https://up1.autodesk.com/prd/2027/RVT/B90DE658-B456-3472-A0F4-52399CCAE222/RVTCPENCAN.exe) |
+| Denmark | [Download](https://up1.autodesk.com/prd/2027/RVT/A4E037DB-21D5-3EC8-AF45-4EA19B046465/RVTCPENDENMARK.exe) |
+| Egypt | [Download](https://up1.autodesk.com/prd/2027/RVT/34CD45FA-8AED-3FEB-8318-7B729F459087/RVTCPENEGYPT.exe) |
+| Finland | [Download](https://up1.autodesk.com/prd/2027/RVT/FB6B7781-BB7E-3D3A-A20C-D39A0A71532B/RVTCPENFINLAND.exe) |
+| Greece | [Download](https://up1.autodesk.com/prd/2027/RVT/A8B264EA-FD0A-3A69-9693-850ACFCACAB8/RVTCPENGREECE.exe) |
+| Hong Kong | [Download](https://up1.autodesk.com/prd/2027/RVT/FA9EDB89-28AA-3EE5-828A-1B8C348D9C7C/RVTCPENHONGKONG.exe) |
+| Iceland | [Download](https://up1.autodesk.com/prd/2027/RVT/998D3B1A-6869-398F-9DCB-E0A61E7F2412/RVTCPENICELAND.exe) |
+| India | [Download](https://up1.autodesk.com/prd/2027/RVT/566371BC-23FC-3C3C-AE0A-7BE4075BB6E5/RVTCPENINDIA.exe) |
+| Malaysia | [Download](https://up1.autodesk.com/prd/2027/RVT/5F13E026-9258-36C7-9BB1-9D987408F635/RVTCPENMALAYSIA.exe) |
+| Netherlands | [Download](https://up1.autodesk.com/prd/2027/RVT/BCF9FAA8-0656-3FED-90B8-99A4E3914783/RVTCPENNETHERLANDS.exe) |
+| New Zealand | [Download](https://up1.autodesk.com/prd/2027/RVT/615FF943-4B76-3C3E-AA80-B7F1D0792E6B/RVTCPENNZL.exe) |
+| Norway | [Download](https://up1.autodesk.com/prd/2027/RVT/0E366D6A-5E56-351D-9736-32F7FBF07DDF/RVTCPENNORWAY.exe) |
+| Portugal | [Download](https://up1.autodesk.com/prd/2027/RVT/CE0356F3-7885-3E57-BB8C-304D342C1D9F/RVTCPENPORTUGAL.exe) |
+| Romania | [Download](https://up1.autodesk.com/prd/2027/RVT/ABF2BC9B-325A-3F53-8AD4-E132DBBBB24B/RVTCPENROMANIA.exe) |
+| Singapore | [Download](https://up1.autodesk.com/prd/2027/RVT/5F6FB47D-6FF1-3F71-B3E1-131603711EF9/RVTCPENSINGAPORE.exe) |
+| South Africa | [Download](https://up1.autodesk.com/prd/2027/RVT/703080BE-42D0-3BAE-B25E-AF33E9A7C268/RVTCPENSAFRICA.exe) |
+| South Asia | [Download](https://up1.autodesk.com/prd/2027/RVT/B8B8C002-5600-355C-B8F5-2684A8384AA0/RVTCPENSASIA.exe) |
+| Sweden | [Download](https://up1.autodesk.com/prd/2027/RVT/1566A199-751A-360A-9740-031F39BC3AD9/RVTCPENSWEDEN.exe) |
+| Thailand | [Download](https://up1.autodesk.com/prd/2027/RVT/6EA77EE9-07FC-3403-A107-0AFD99392239/RVTCPENTHAILAND.exe) |
+| Europe | [Download](https://up1.autodesk.com/prd/2027/RVT/F10E8F1A-E2D8-3619-84D5-4320A0D7AC8E/RVTCPENEURO.exe) |
+| China | [Download](https://up1.autodesk.com/prd/2027/RVT/11749E83-0661-3F57-9B1E-1D8C9ADF5001/RVTCPCHS.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://up1.autodesk.com/prd/2027/RVT/8916A181-2321-3141-BDEA-07E029DD43DB/RVTCPCHT.exe) |
+| Czech | [Download](https://up1.autodesk.com/prd/2027/RVT/D35A7D93-87BE-3D94-9FBB-5C42A9C58F21/RVTCPCSY.exe) |
+| France | [Download](https://up1.autodesk.com/prd/2027/RVT/D1F0E7F4-AB8A-380B-AB48-5B17BD8C4B4B/RVTCPFRA.exe) |
+| Germany | [Download](https://up1.autodesk.com/prd/2027/RVT/E66F9781-CC9D-3625-88F2-BE4479340F82/RVTCPDEU.exe) |
+| Italy | [Download](https://up1.autodesk.com/prd/2027/RVT/479C15A3-59CC-3EC3-B87D-C2D77FC278AF/RVTCPITA.exe) |
+| Japan | [Download](https://up1.autodesk.com/prd/2027/RVT/39077595-AF37-3BC2-863C-6B879DD81F4A/RVTCPJPN.exe) |
+| Korea | [Download](https://up1.autodesk.com/prd/2027/RVT/02CA0323-5E4E-39F4-A421-E10822116946/RVTCPKOR.exe) |
+| Poland | [Download](https://up1.autodesk.com/prd/2027/RVT/6E028245-64F8-3B7A-B87D-F0C9C3E95651/RVTCPPLK.exe) |
+| Brazil | [Download](https://up1.autodesk.com/prd/2027/RVT/28C6F6D2-A15F-38C5-AC82-09DA1F3A5DFE/RVTCPPTB.exe) |
+| Spain | [Download](https://up1.autodesk.com/prd/2027/RVT/D738E093-E620-3DB5-B1CA-4AC5FD5BFA94/RVTCPESP.exe) |
+| Russia | [Download](https://up1.autodesk.com/prd/2027/RVT/A1EC11BD-7096-3D17-A533-DF747139FAF2/RVTCPRUS.exe) |
 
 ## Revit2026
 
@@ -131,54 +133,56 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2026 64-bit US Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/3D0AE96B-BF5D-357E-95DB-5D09B0685909/RVTCPENU.exe)
-2. [Revit 2026 64-bit US Family and Template Library (RES)](https://up1.autodesk.com/prd/2026/RVT/14B51103-E96D-3F4E-825A-BD7C73B2F8B3/RVTCPENURES.exe)
-3. [Revit 2026 64-bit UK Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/230AF9BD-EB79-3776-B5E5-3DE42148B13E/RVTCPENG.exe)
-4. [Revit 2026 64-bit Australia Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/409D21B4-0287-37AF-8816-458B440560AF/RVTCPENAUS.exe)
-5. [Revit 2026 64-bit Belgium Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/E89CCA8F-3113-32D8-B8D4-ACEED0C85461/RVTCPENBELGIUM.exe)
-6. [Revit 2026 64-bit Canada Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/5581978A-41F1-33E8-BDC2-042BF6B6A1CB/RVTCPENCAN.exe)
-7. [Revit 2026 64-bit Denmark Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/845CAAE2-5FCC-3C71-BE0C-6A0FCE7AC047/RVTCPENDENMARK.exe)
-8. [Revit 2026 64-bit Egypt Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/C20C771D-7906-30F7-9E03-9DA6316815CA/RVTCPENEGYPT.exe)
-9. [Revit 2026 64-bit Finland Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/12999AC4-8C33-3325-8815-AB5F5B43B47F/RVTCPENFINLAND.exe)
-10. [Revit 2026 64-bit Greece Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/361A6EBB-BE3B-3D3E-A28F-4F98662BB3E5/RVTCPENGREECE.exe)
-11. [Revit 2026 64-bit Hong Kong Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/4E858926-0F29-32DD-BDB3-64521B4A36C1/RVTCPENHONGKONG.exe)
-12. [Revit 2026 64-bit Iceland Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/5F81091B-3D2C-3BEB-91E4-751EE5F1B385/RVTCPENICELAND.exe)
-13. [Revit 2026 64-bit India Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/53801032-B493-30B0-A859-2F616E236C0B/RVTCPENINDIA.exe)
-14. [Revit 2026 64-bit Malaysia Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/8C593E74-2AEF-329C-9DD7-F708F3A1FA75/RVTCPENMALAYSIA.exe)
-15. [Revit 2026 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/1F867B29-FDAF-3DB2-BB6C-CE12BC9AEED2/RVTCPENNETHERLANDS.exe)
-16. [Revit 2026 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/ED8227A8-ECD8-3BF0-9463-E310238F21B5/RVTCPENNZL.exe)
-17. [Revit 2026 64-bit Norway Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/92445C9C-6428-3112-B1E5-63ABCEEF7EC7/RVTCPENNORWAY.exe)
-18. [Revit 2026 64-bit Portugal Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/9627F93F-B64C-334E-9FFD-0A9631ECCBC9/RVTCPENPORTUGAL.exe)
-19. [Revit 2026 64-bit Romania Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/6523C35F-B30C-3347-A250-2158ECDF492D/RVTCPENROMANIA.exe)
-20. [Revit 2026 64-bit Singapore Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/6FDA12D9-642A-3B9D-AB1A-C1AFC5F75B7C/RVTCPENSINGAPORE.exe)
-21. [Revit 2026 64-bit South Africa Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/D38E5BD7-E5C5-354F-8A0F-59B0855F0124/RVTCPENSAFRICA.exe)
-22. [Revit 2026 64-bit South Asia Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/94A8F028-B326-3102-B46B-C94DA82CDBEA/RVTCPENSASIA.exe)
-23. [Revit 2026 64-bit Sweden Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/BA01DEC8-90BD-3A06-A07E-C72E465D6AB0/RVTCPENSWEDEN.exe)
-24. [Revit 2026 64-bit Thailand Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/957B356A-E1E2-3793-BAC0-4B0014903795/RVTCPENTHAILAND.exe)
-25. [Revit 2026 64-bit Europe Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/597CCB9A-6B32-33C9-85E7-6A6729B416D0/RVTCPENEURO.exe)
-26. [Revit 2026 64-bit China Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/34478194-475E-3ECA-AF65-D66E2A42566B/RVTCPGENCHS.exe)
-27. [Revit 2026 64-bit China Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/2EFDC3A8-C311-31A6-A351-B17E3CC6378C/RVTCPCHS.exe)
-28. [Revit 2026 64-bit Hong Kong, Taiwan, Macau Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/4A2B0751-ECA9-3222-A26B-97B8D7E30BF2/RVTCPGENCHT.exe)
-29. [Revit 2026 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/6C9E7A8C-1511-3D15-9A92-FEF89F3FD681/RVTCPCHT.exe)
-30. [Revit 2026 64-bit Czech Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/15044DEE-BF5D-3A51-A34A-D546CA292E74/RVTCPGENCSY.exe)
-31. [Revit 2026 64-bit Czech Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/8FB3FD4B-E55F-3CC1-970E-42E9D37E8516/RVTCPCSY.exe)
-32. [Revit 2026 64-bit France Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/70E52707-21C5-3A6D-977E-4E65530BF4C5/RVTCPGENFRA.exe)
-33. [Revit 2026 64-bit France Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/1F394B9A-29A4-300D-B13E-E55DC100AAAB/RVTCPFRA.exe)
-34. [Revit 2026 64-bit Germany Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/966F2985-7226-3D83-BE15-39E093518CD9/RVTCPDEU.exe)
-35. [Revit 2026 64-bit Italy Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/B32395D3-51A2-343C-B6D0-F62D6F4C5D17/RVTCPGENITA.exe)
-36. [Revit 2026 64-bit Italy Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/09A0B31D-EDF8-3002-A4B5-3FF4AD386724/RVTCPITA.exe)
-37. [Revit 2026 64-bit Japan Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/E934F229-2BA5-3568-A783-B27C0B62AC0E/RVTCPGENJPN.exe)
-38. [Revit 2026 64-bit Japan Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/27EA8397-4CD0-3E34-B7EC-FDA65307E271/RVTCPJPN.exe)
-39. [Revit 2026 64-bit Korea Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/491E9E88-4D13-3167-AC0F-6E7F4607101A/RVTCPGENKOR.exe)
-40. [Revit 2026 64-bit Korea Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/7AB591D8-B858-3AB6-941E-ADC6F2372EAC/RVTCPKOR.exe)
-41. [Revit 2026 64-bit Poland Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/D28A0863-C6A8-36D6-AF0E-647207A59971/RVTCPGENPLK.exe)
-42. [Revit 2026 64-bit Poland Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/B30B03BF-CDAA-3F31-A3F9-44A4176AC544/RVTCPPLK.exe)
-43. [Revit 2026 64-bit Brazil Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/2657B041-CC54-3AFE-964C-BBA9963F3A4E/RVTCPGENPTB.exe)
-44. [Revit 2026 64-bit Brazil Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/4B5BA022-0A7F-3176-AC6F-18326B5CC910/RVTCPPTB.exe)
-45. [Revit 2026 64-bit Spain Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/360ACF24-9A57-38D2-BE9A-DF1CCD2F48E4/RVTCPGENESP.exe)
-46. [Revit 2026 64-bit Spain Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/E3FC6965-4C63-354A-B6FF-61C170E725D6/RVTCPESP.exe)
-47. [Revit 2026 64-bit Russia Family and Template Library (GEN)](https://up1.autodesk.com/prd/2026/RVT/CB9CB5B2-A7C6-32A5-8A1A-07FFA7CA05E0/RVTCPGENRUS.exe)
-48. [Revit 2026 64-bit Russia Family and Template Library](https://up1.autodesk.com/prd/2026/RVT/2C277C61-2ED7-3B21-BD23-7525AC8B9BD6/RVTCPRUS.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| US | [Download](https://up1.autodesk.com/prd/2026/RVT/3D0AE96B-BF5D-357E-95DB-5D09B0685909/RVTCPENU.exe) |
+| US (RES) | [Download](https://up1.autodesk.com/prd/2026/RVT/14B51103-E96D-3F4E-825A-BD7C73B2F8B3/RVTCPENURES.exe) |
+| UK | [Download](https://up1.autodesk.com/prd/2026/RVT/230AF9BD-EB79-3776-B5E5-3DE42148B13E/RVTCPENG.exe) |
+| Australia | [Download](https://up1.autodesk.com/prd/2026/RVT/409D21B4-0287-37AF-8816-458B440560AF/RVTCPENAUS.exe) |
+| Belgium | [Download](https://up1.autodesk.com/prd/2026/RVT/E89CCA8F-3113-32D8-B8D4-ACEED0C85461/RVTCPENBELGIUM.exe) |
+| Canada | [Download](https://up1.autodesk.com/prd/2026/RVT/5581978A-41F1-33E8-BDC2-042BF6B6A1CB/RVTCPENCAN.exe) |
+| Denmark | [Download](https://up1.autodesk.com/prd/2026/RVT/845CAAE2-5FCC-3C71-BE0C-6A0FCE7AC047/RVTCPENDENMARK.exe) |
+| Egypt | [Download](https://up1.autodesk.com/prd/2026/RVT/C20C771D-7906-30F7-9E03-9DA6316815CA/RVTCPENEGYPT.exe) |
+| Finland | [Download](https://up1.autodesk.com/prd/2026/RVT/12999AC4-8C33-3325-8815-AB5F5B43B47F/RVTCPENFINLAND.exe) |
+| Greece | [Download](https://up1.autodesk.com/prd/2026/RVT/361A6EBB-BE3B-3D3E-A28F-4F98662BB3E5/RVTCPENGREECE.exe) |
+| Hong Kong | [Download](https://up1.autodesk.com/prd/2026/RVT/4E858926-0F29-32DD-BDB3-64521B4A36C1/RVTCPENHONGKONG.exe) |
+| Iceland | [Download](https://up1.autodesk.com/prd/2026/RVT/5F81091B-3D2C-3BEB-91E4-751EE5F1B385/RVTCPENICELAND.exe) |
+| India | [Download](https://up1.autodesk.com/prd/2026/RVT/53801032-B493-30B0-A859-2F616E236C0B/RVTCPENINDIA.exe) |
+| Malaysia | [Download](https://up1.autodesk.com/prd/2026/RVT/8C593E74-2AEF-329C-9DD7-F708F3A1FA75/RVTCPENMALAYSIA.exe) |
+| Netherlands | [Download](https://up1.autodesk.com/prd/2026/RVT/1F867B29-FDAF-3DB2-BB6C-CE12BC9AEED2/RVTCPENNETHERLANDS.exe) |
+| New Zealand | [Download](https://up1.autodesk.com/prd/2026/RVT/ED8227A8-ECD8-3BF0-9463-E310238F21B5/RVTCPENNZL.exe) |
+| Norway | [Download](https://up1.autodesk.com/prd/2026/RVT/92445C9C-6428-3112-B1E5-63ABCEEF7EC7/RVTCPENNORWAY.exe) |
+| Portugal | [Download](https://up1.autodesk.com/prd/2026/RVT/9627F93F-B64C-334E-9FFD-0A9631ECCBC9/RVTCPENPORTUGAL.exe) |
+| Romania | [Download](https://up1.autodesk.com/prd/2026/RVT/6523C35F-B30C-3347-A250-2158ECDF492D/RVTCPENROMANIA.exe) |
+| Singapore | [Download](https://up1.autodesk.com/prd/2026/RVT/6FDA12D9-642A-3B9D-AB1A-C1AFC5F75B7C/RVTCPENSINGAPORE.exe) |
+| South Africa | [Download](https://up1.autodesk.com/prd/2026/RVT/D38E5BD7-E5C5-354F-8A0F-59B0855F0124/RVTCPENSAFRICA.exe) |
+| South Asia | [Download](https://up1.autodesk.com/prd/2026/RVT/94A8F028-B326-3102-B46B-C94DA82CDBEA/RVTCPENSASIA.exe) |
+| Sweden | [Download](https://up1.autodesk.com/prd/2026/RVT/BA01DEC8-90BD-3A06-A07E-C72E465D6AB0/RVTCPENSWEDEN.exe) |
+| Thailand | [Download](https://up1.autodesk.com/prd/2026/RVT/957B356A-E1E2-3793-BAC0-4B0014903795/RVTCPENTHAILAND.exe) |
+| Europe | [Download](https://up1.autodesk.com/prd/2026/RVT/597CCB9A-6B32-33C9-85E7-6A6729B416D0/RVTCPENEURO.exe) |
+| China (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/34478194-475E-3ECA-AF65-D66E2A42566B/RVTCPGENCHS.exe) |
+| China | [Download](https://up1.autodesk.com/prd/2026/RVT/2EFDC3A8-C311-31A6-A351-B17E3CC6378C/RVTCPCHS.exe) |
+| Hong Kong, Taiwan, Macau (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/4A2B0751-ECA9-3222-A26B-97B8D7E30BF2/RVTCPGENCHT.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://up1.autodesk.com/prd/2026/RVT/6C9E7A8C-1511-3D15-9A92-FEF89F3FD681/RVTCPCHT.exe) |
+| Czech (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/15044DEE-BF5D-3A51-A34A-D546CA292E74/RVTCPGENCSY.exe) |
+| Czech | [Download](https://up1.autodesk.com/prd/2026/RVT/8FB3FD4B-E55F-3CC1-970E-42E9D37E8516/RVTCPCSY.exe) |
+| France (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/70E52707-21C5-3A6D-977E-4E65530BF4C5/RVTCPGENFRA.exe) |
+| France | [Download](https://up1.autodesk.com/prd/2026/RVT/1F394B9A-29A4-300D-B13E-E55DC100AAAB/RVTCPFRA.exe) |
+| Germany | [Download](https://up1.autodesk.com/prd/2026/RVT/966F2985-7226-3D83-BE15-39E093518CD9/RVTCPDEU.exe) |
+| Italy (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/B32395D3-51A2-343C-B6D0-F62D6F4C5D17/RVTCPGENITA.exe) |
+| Italy | [Download](https://up1.autodesk.com/prd/2026/RVT/09A0B31D-EDF8-3002-A4B5-3FF4AD386724/RVTCPITA.exe) |
+| Japan (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/E934F229-2BA5-3568-A783-B27C0B62AC0E/RVTCPGENJPN.exe) |
+| Japan | [Download](https://up1.autodesk.com/prd/2026/RVT/27EA8397-4CD0-3E34-B7EC-FDA65307E271/RVTCPJPN.exe) |
+| Korea (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/491E9E88-4D13-3167-AC0F-6E7F4607101A/RVTCPGENKOR.exe) |
+| Korea | [Download](https://up1.autodesk.com/prd/2026/RVT/7AB591D8-B858-3AB6-941E-ADC6F2372EAC/RVTCPKOR.exe) |
+| Poland (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/D28A0863-C6A8-36D6-AF0E-647207A59971/RVTCPGENPLK.exe) |
+| Poland | [Download](https://up1.autodesk.com/prd/2026/RVT/B30B03BF-CDAA-3F31-A3F9-44A4176AC544/RVTCPPLK.exe) |
+| Brazil (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/2657B041-CC54-3AFE-964C-BBA9963F3A4E/RVTCPGENPTB.exe) |
+| Brazil | [Download](https://up1.autodesk.com/prd/2026/RVT/4B5BA022-0A7F-3176-AC6F-18326B5CC910/RVTCPPTB.exe) |
+| Spain (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/360ACF24-9A57-38D2-BE9A-DF1CCD2F48E4/RVTCPGENESP.exe) |
+| Spain | [Download](https://up1.autodesk.com/prd/2026/RVT/E3FC6965-4C63-354A-B6FF-61C170E725D6/RVTCPESP.exe) |
+| Russia (GEN) | [Download](https://up1.autodesk.com/prd/2026/RVT/CB9CB5B2-A7C6-32A5-8A1A-07FFA7CA05E0/RVTCPGENRUS.exe) |
+| Russia | [Download](https://up1.autodesk.com/prd/2026/RVT/2C277C61-2ED7-3B21-BD23-7525AC8B9BD6/RVTCPRUS.exe) |
 
 ## Revit2025
 
@@ -239,40 +243,42 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2025 64-bit Australia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/00479154-B7E1-357E-ACD3-D6886ED1A48B/RVTCPENAUS.exe)
-2. [Revit 2025 64-bit Belgium Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/56BB6F96-52BD-3F81-B72F-7F53E9181AC6/RVTCPENBELGIUM.exe)
-3. [Revit 2025 64-bit Canada Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/5C79688E-8B89-33D3-96A0-5FDEB01AC7F8/RVTCPENCAN.exe)
-4. [Revit 2025 64-bit Denmark Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/84F2F984-ED8B-306A-B0CB-608E0A42C9E3/RVTCPENDENMARK.exe)
-5. [Revit 2025 64-bit Egypt Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/3DA6A0A3-C8A1-3CAB-BB5C-E18F81BC6DEA/RVTCPENEGYPT.exe)
-6. [Revit 2025 64-bit Finland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/E0BE3ED6-1004-3C4F-B19E-E66A6757B8C0/RVTCPENFINLAND.exe)
-7. [Revit 2025 64-bit Greece Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A1B2BA86-2699-3D3F-8328-9CC798BE4C04/RVTCPENGREECE.exe)
-8. [Revit 2025 64-bit Hong Kong Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/36F80F7D-0E72-3DD8-AA85-8771CF7E5895/RVTCPENHONGKONG.exe)
-9. [Revit 2025 64-bit Iceland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/5DD8E94F-FED6-3B36-B3CC-78C5DEDE48D5/RVTCPENICELAND.exe)
-10. [Revit 2025 64-bit India Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF5C606-EBF4-3862-9EE3-873260152EB3/RVTCPENINDIA.exe)
-11. [Revit 2025 64-bit Malaysia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A4BC59B3-9534-3BDF-AE4B-B1792496478C/RVTCPENMALAYSIA.exe)
-12. [Revit 2025 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/BEAFCE9F-10CF-3EC6-8779-91FCF3B25FE5/RVTCPENNETHERLANDS.exe)
-13. [Revit 2025 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/62D64A9F-0361-3C82-939A-9075E18C5781/RVTCPENNZL.exe)
-14. [Revit 2025 64-bit Norway Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/07BD9EB9-5AEA-3FAE-84C6-087EF041A731/RVTCPENNORWAY.exe)
-15. [Revit 2025 64-bit Portugal Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/E15004EC-6AA5-314D-8A96-869F3D4A622A/RVTCPENPORTUGAL.exe)
-16. [Revit 2025 64-bit Romania Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A2AEA630-ED9B-3087-B65B-E185C65DE289/RVTCPENROMANIA.exe)
-17. [Revit 2025 64-bit Singapore Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/149001EF-F5EA-3333-91B8-13D91608A246/RVTCPENSINGAPORE.exe)
-18. [Revit 2025 64-bit South Africa Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/AC4570E4-7E70-3A8C-A37C-73DB5C45BC49/RVTCPENSAFRICA.exe)
-19. [Revit 2025 64-bit South Asia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/1D161EFE-9C17-3D80-91B7-EC80F85A3858/RVTCPENSASIA.exe)
-20. [Revit 2025 64-bit Sweden Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/53ABDC40-392C-3EAD-9C06-34F539C98FF8/RVTCPENSWEDEN.exe)
-21. [Revit 2025 64-bit Thailand Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/445575FA-F5C1-3C93-AFC5-F20D1D47722E/RVTCPENTHAILAND.exe)
-22. [Revit 2025 64-bit Europe Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/C494A2A8-DB0B-378D-AA2A-7FA2FA2ABE63/RVTCPENEURO.exe)
-23. [Revit 2025 64-bit China Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/820C0609-E380-3A17-A790-5DCC8709EC39/RVTCPGENCHS.exe)
-24. [Revit 2025 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/A75508CC-DDB3-3BFE-8806-5F434BD60A92/RVTCPCHT.exe)
-25. [Revit 2025 64-bit Czech Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/09C95DB2-CE44-3F9D-9D6E-1F365F982E45/RVTCPGENCSY.exe)
-26. [Revit 2025 64-bit France Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/D1EC1E66-2BAF-3CDE-87EF-DDFA024C8CCC/RVTCPGENFRA.exe)
-27. [Revit 2025 64-bit Germany Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF34207-01A0-3BE4-A673-E31AA9980832/RVTCPDEU.exe)
-28. [Revit 2025 64-bit Italy Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/7F20E6E3-39A9-35C3-BCA0-86F6A4CA3EFE/RVTCPGENITA.exe)
-29. [Revit 2025 64-bit Japan Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/204EE000-3BBB-35C5-A0DD-AE6E0C57898B/RVTCPGENJPN.exe)
-30. [Revit 2025 64-bit Korea Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/074C7258-B73F-3E04-9048-657CD8C0414B/RVTCPGENKOR.exe)
-31. [Revit 2025 64-bit Poland Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/59F45202-8076-326B-8A2D-659966FB2C11/RVTCPPLK.exe)
-32. [Revit 2025 64-bit Brazil Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/790B4AD9-0AFD-366D-A62D-901C4396F8BF/RVTCPGENPTB.exe)
-33. [Revit 2025 64-bit Spain Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/ED720DEA-9C33-3CD0-B71E-2DE702BFE757/RVTCPGENESP.exe)
-34. [Revit 2025 64-bit Russia Family and Template Library](https://up1.autodesk.com/NetSWCOM/prd/RVT/C262045D-A7AA-33FD-9CA8-7F4BB84B2516/RVTCPGENRUS.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| Australia | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/00479154-B7E1-357E-ACD3-D6886ED1A48B/RVTCPENAUS.exe) |
+| Belgium | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/56BB6F96-52BD-3F81-B72F-7F53E9181AC6/RVTCPENBELGIUM.exe) |
+| Canada | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/5C79688E-8B89-33D3-96A0-5FDEB01AC7F8/RVTCPENCAN.exe) |
+| Denmark | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/84F2F984-ED8B-306A-B0CB-608E0A42C9E3/RVTCPENDENMARK.exe) |
+| Egypt | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/3DA6A0A3-C8A1-3CAB-BB5C-E18F81BC6DEA/RVTCPENEGYPT.exe) |
+| Finland | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/E0BE3ED6-1004-3C4F-B19E-E66A6757B8C0/RVTCPENFINLAND.exe) |
+| Greece | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/A1B2BA86-2699-3D3F-8328-9CC798BE4C04/RVTCPENGREECE.exe) |
+| Hong Kong | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/36F80F7D-0E72-3DD8-AA85-8771CF7E5895/RVTCPENHONGKONG.exe) |
+| Iceland | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/5DD8E94F-FED6-3B36-B3CC-78C5DEDE48D5/RVTCPENICELAND.exe) |
+| India | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF5C606-EBF4-3862-9EE3-873260152EB3/RVTCPENINDIA.exe) |
+| Malaysia | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/A4BC59B3-9534-3BDF-AE4B-B1792496478C/RVTCPENMALAYSIA.exe) |
+| Netherlands | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/BEAFCE9F-10CF-3EC6-8779-91FCF3B25FE5/RVTCPENNETHERLANDS.exe) |
+| New Zealand | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/62D64A9F-0361-3C82-939A-9075E18C5781/RVTCPENNZL.exe) |
+| Norway | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/07BD9EB9-5AEA-3FAE-84C6-087EF041A731/RVTCPENNORWAY.exe) |
+| Portugal | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/E15004EC-6AA5-314D-8A96-869F3D4A622A/RVTCPENPORTUGAL.exe) |
+| Romania | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/A2AEA630-ED9B-3087-B65B-E185C65DE289/RVTCPENROMANIA.exe) |
+| Singapore | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/149001EF-F5EA-3333-91B8-13D91608A246/RVTCPENSINGAPORE.exe) |
+| South Africa | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/AC4570E4-7E70-3A8C-A37C-73DB5C45BC49/RVTCPENSAFRICA.exe) |
+| South Asia | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/1D161EFE-9C17-3D80-91B7-EC80F85A3858/RVTCPENSASIA.exe) |
+| Sweden | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/53ABDC40-392C-3EAD-9C06-34F539C98FF8/RVTCPENSWEDEN.exe) |
+| Thailand | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/445575FA-F5C1-3C93-AFC5-F20D1D47722E/RVTCPENTHAILAND.exe) |
+| Europe | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/C494A2A8-DB0B-378D-AA2A-7FA2FA2ABE63/RVTCPENEURO.exe) |
+| China | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/820C0609-E380-3A17-A790-5DCC8709EC39/RVTCPGENCHS.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/A75508CC-DDB3-3BFE-8806-5F434BD60A92/RVTCPCHT.exe) |
+| Czech | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/09C95DB2-CE44-3F9D-9D6E-1F365F982E45/RVTCPGENCSY.exe) |
+| France | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/D1EC1E66-2BAF-3CDE-87EF-DDFA024C8CCC/RVTCPGENFRA.exe) |
+| Germany | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/9BF34207-01A0-3BE4-A673-E31AA9980832/RVTCPDEU.exe) |
+| Italy | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/7F20E6E3-39A9-35C3-BCA0-86F6A4CA3EFE/RVTCPGENITA.exe) |
+| Japan | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/204EE000-3BBB-35C5-A0DD-AE6E0C57898B/RVTCPGENJPN.exe) |
+| Korea | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/074C7258-B73F-3E04-9048-657CD8C0414B/RVTCPGENKOR.exe) |
+| Poland | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/59F45202-8076-326B-8A2D-659966FB2C11/RVTCPPLK.exe) |
+| Brazil | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/790B4AD9-0AFD-366D-A62D-901C4396F8BF/RVTCPGENPTB.exe) |
+| Spain | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/ED720DEA-9C33-3CD0-B71E-2DE702BFE757/RVTCPGENESP.exe) |
+| Russia | [Download](https://up1.autodesk.com/NetSWCOM/prd/RVT/C262045D-A7AA-33FD-9CA8-7F4BB84B2516/RVTCPGENRUS.exe) |
 
 ## Revit2024
 
@@ -340,53 +346,55 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2024 64-bit US Family and Template Library](https://up1.autodesk.com/2024/RVT/717B9D0C-9DA3-3C49-BF5B-5D55DAB8247A/RVTCPENU.exe)
-2. [Revit 2024 64-bit Australia Family and Template Library](https://up1.autodesk.com/2024/RVT/C70DF33A-CF9D-3091-8D7C-B33322F39A65/RVTCPENAUS.exe)
-3. [Revit 2024 64-bit Belgium Family and Template Library](https://up1.autodesk.com/2024/RVT/6B29F77B-9A59-3389-8702-8955CD131267/RVTCPENBELGIUM.exe)
-4. [Revit 2024 64-bit Canada Family and Template Library](https://up1.autodesk.com/2024/RVT/2B969F8F-AA23-3260-AA32-27D916E50091/RVTCPENCAN.exe)
-5. [Revit 2024 64-bit Denmark Family and Template Library](https://up1.autodesk.com/2024/RVT/A41B5DA4-A017-39E9-BF8E-F4A75F8446EB/RVTCPENDENMARK.exe)
-6. [Revit 2024 64-bit Egypt Family and Template Library](https://up1.autodesk.com/2024/RVT/3353CBC0-A46D-3916-AF8E-1807DDF4A5FC/RVTCPENEGYPT.exe)
-7. [Revit 2024 64-bit Finland Family and Template Library](https://up1.autodesk.com/2024/RVT/2F465DF7-36B9-3CC8-AA91-F9BD02936017/RVTCPENFINLAND.exe)
-8. [Revit 2024 64-bit Greece Family and Template Library](https://up1.autodesk.com/2024/RVT/FE1D85CF-3137-3BF1-8791-4A31A995183D/RVTCPENGREECE.exe)
-9. [Revit 2024 64-bit Hong Kong Family and Template Library](https://up1.autodesk.com/2024/RVT/059A7E36-4E00-3F4D-A377-0104CF911E76/RVTCPENHONGKONG.exe)
-10. [Revit 2024 64-bit Iceland Family and Template Library](https://up1.autodesk.com/2024/RVT/D9C7D7D8-20FA-36DC-A52B-D2184C1E16B7/RVTCPENICELAND.exe)
-11. [Revit 2024 64-bit India Family and Template Library](https://up1.autodesk.com/2024/RVT/B832CF01-92CC-38FB-B094-2639E0467534/RVTCPENINDIA.exe)
-12. [Revit 2024 64-bit Malaysia Family and Template Library](https://up1.autodesk.com/2024/RVT/3C713A63-0654-3FD1-8B78-733954CB16B2/RVTCPENMALAYSIA.exe)
-13. [Revit 2024 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/2024/RVT/6A94B53C-0C9F-3E5E-B32D-B6E23DE6EADF/RVTCPENNETHERLANDS.exe)
-14. [Revit 2024 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/2024/RVT/80B05C46-FB44-3AB3-9B32-CA7EC4A248F4/RVTCPENNZL.exe)
-15. [Revit 2024 64-bit Norway Family and Template Library](https://up1.autodesk.com/2024/RVT/4A033096-A73E-3213-BDD1-49AEADA69B9E/RVTCPENNORWAY.exe)
-16. [Revit 2024 64-bit Portugal Family and Template Library](https://up1.autodesk.com/2024/RVT/D40B24C9-D14B-3270-A86C-133823E3797E/RVTCPENPORTUGAL.exe)
-17. [Revit 2024 64-bit Romania Family and Template Library](https://up1.autodesk.com/2024/RVT/651516C0-E68C-3134-8D72-31754176F31D/RVTCPENROMANIA.exe)
-18. [Revit 2024 64-bit Singapore Family and Template Library](https://up1.autodesk.com/2024/RVT/8B62445D-88B4-39D6-82FA-5924C4F079DD/RVTCPENSINGAPORE.exe)
-19. [Revit 2024 64-bit South Africa Family and Template Library](https://up1.autodesk.com/2024/RVT/645C9F44-A2A5-33EC-B878-7A413F6FA02D/RVTCPENSAFRICA.exe)
-20. [Revit 2024 64-bit South Asia Family and Template Library](https://up1.autodesk.com/2024/RVT/24820641-B8AB-3653-A3EB-0BAD0ABDA66C/RVTCPENSASIA.exe)
-21. [Revit 2024 64-bit Sweden Family and Template Library](https://up1.autodesk.com/2024/RVT/BFB9C3B5-C7FA-3876-8010-D8107A19BD52/RVTCPENSWEDEN.exe)
-22. [Revit 2024 64-bit Thailand Family and Template Library](https://up1.autodesk.com/2024/RVT/D975B672-4BAD-341A-B17C-5B73DDC1CD0C/RVTCPENTHAILAND.exe)
-23. [Revit 2024 64-bit UK Family and Template Library](https://up1.autodesk.com/2024/RVT/1E0DD33E-6E95-34D5-82B5-30EB2A377512/RVTCPENG.exe)
-24. [Revit 2024 64-bit Europe Family and Template Library](https://up1.autodesk.com/2024/RVT/486B91A6-23A6-3540-9B2E-99C45BFE6350/RVTCPENEURO.exe)
-25. [Revit 2024 64-bit China Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/389F40A4-7930-3689-9BB4-F1984B76C290/RVTCPGENCHS.exe)
-26. [Revit 2024 64-bit China Family and Template Library](https://up1.autodesk.com/2024/RVT/83AE0ECE-49E6-3142-9401-A0C7C048BC8D/RVTCPCHS.exe)
-27. [Revit 2024 64-bit Hong Kong, Taiwan, Macau Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/2AC92955-9E21-33E1-AA47-9BD49F53227F/RVTCPGENCHT.exe)
-28. [Revit 2024 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/2024/RVT/BEA8EF5F-1932-3953-91DA-DA625F2109B5/RVTCPCHT.exe)
-29. [Revit 2024 64-bit Czech Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/DEF509BC-6F00-39FC-826F-D52B1AEA1976/RVTCPGENCSY.exe)
-30. [Revit 2024 64-bit Czech Family and Template Library](https://up1.autodesk.com/2024/RVT/DEAF9F80-EF56-30B4-AD00-E87C52A8D470/RVTCPCSY.exe)
-31. [Revit 2024 64-bit France Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/47687B7F-287F-350F-97DF-DAE85C5F0CB8/RVTCPGENFRA.exe)
-32. [Revit 2024 64-bit France Family and Template Library](https://up1.autodesk.com/2024/RVT/CC26DD4B-1CB7-3202-924C-79E75FD1E60A/RVTCPFRA.exe)
-33. [Revit 2024 64-bit Germany Family and Template Library](https://up1.autodesk.com/2024/RVT/556AE3A6-4B63-3CD1-A0A3-2421C996148E/RVTCPDEU.exe)
-34. [Revit 2024 64-bit Italy Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/14AD7782-BA6D-3559-AEE2-5DA843DE2F0B/RVTCPGENITA.exe)
-35. [Revit 2024 64-bit Italy Family and Template Library](https://up1.autodesk.com/2024/RVT/53D7FDA3-86C2-3A88-B4A3-DE78D3F28B0A/RVTCPITA.exe)
-36. [Revit 2024 64-bit Japan Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/75C11522-60D7-3E5D-A0FC-D87F7A13FCE0/RVTCPGENJPN.exe)
-37. [Revit 2024 64-bit Japan Family and Template Library](https://up1.autodesk.com/2024/RVT/5D8282FB-C82E-3E53-8C0E-DF0ED6B78D3A/RVTCPJPN.exe)
-38. [Revit 2024 64-bit Korea Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/E91CA7EA-AE51-3C0E-99C7-8562D0236260/RVTCPGENKOR.exe)
-39. [Revit 2024 64-bit Korea Family and Template Library](https://up1.autodesk.com/2024/RVT/15A1BE89-B6F3-3FEC-84F1-9290223178E4/RVTCPKOR.exe)
-40. [Revit 2024 64-bit Poland Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/7B3E7746-D9F4-341C-96F8-5809017CCC6B/RVTCPGENPLK.exe)
-41. [Revit 2024 64-bit Poland Family and Template Library](https://up1.autodesk.com/2024/RVT/28E94D32-5CE7-35C8-963A-9E3B67CB78AE/RVTCPPLK.exe)
-42. [Revit 2024 64-bit Brazil Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/DBC8E7AB-1BCF-3D3D-8315-BBD1D78FE63B/RVTCPGENPTB.exe)
-43. [Revit 2024 64-bit Brazil Family and Template Library](https://up1.autodesk.com/2024/RVT/5FECAFD1-4F1D-308B-9745-03D734E387B7/RVTCPPTB.exe)
-44. [Revit 2024 64-bit Spain Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/08A3B404-C62A-3EB9-A64A-30691AA6E31F/RVTCPGENESP.exe)
-45. [Revit 2024 64-bit Spain Family and Template Library](https://up1.autodesk.com/2024/RVT/B3E48222-7C85-3DE6-80C9-5F31ACA2C576/RVTCPESP.exe)
-46. [Revit 2024 64-bit Russia Family and Template Library (GEN)](https://up1.autodesk.com/2024/RVT/44104156-395D-3E19-9110-321D583108AC/RVTCPGENRUS.exe)
-47. [Revit 2024 64-bit Russia Family and Template Library](https://up1.autodesk.com/2024/RVT/5C7C7612-53AB-394D-8798-3BCBCD3A5296/RVTCPRUS.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| US | [Download](https://up1.autodesk.com/2024/RVT/717B9D0C-9DA3-3C49-BF5B-5D55DAB8247A/RVTCPENU.exe) |
+| Australia | [Download](https://up1.autodesk.com/2024/RVT/C70DF33A-CF9D-3091-8D7C-B33322F39A65/RVTCPENAUS.exe) |
+| Belgium | [Download](https://up1.autodesk.com/2024/RVT/6B29F77B-9A59-3389-8702-8955CD131267/RVTCPENBELGIUM.exe) |
+| Canada | [Download](https://up1.autodesk.com/2024/RVT/2B969F8F-AA23-3260-AA32-27D916E50091/RVTCPENCAN.exe) |
+| Denmark | [Download](https://up1.autodesk.com/2024/RVT/A41B5DA4-A017-39E9-BF8E-F4A75F8446EB/RVTCPENDENMARK.exe) |
+| Egypt | [Download](https://up1.autodesk.com/2024/RVT/3353CBC0-A46D-3916-AF8E-1807DDF4A5FC/RVTCPENEGYPT.exe) |
+| Finland | [Download](https://up1.autodesk.com/2024/RVT/2F465DF7-36B9-3CC8-AA91-F9BD02936017/RVTCPENFINLAND.exe) |
+| Greece | [Download](https://up1.autodesk.com/2024/RVT/FE1D85CF-3137-3BF1-8791-4A31A995183D/RVTCPENGREECE.exe) |
+| Hong Kong | [Download](https://up1.autodesk.com/2024/RVT/059A7E36-4E00-3F4D-A377-0104CF911E76/RVTCPENHONGKONG.exe) |
+| Iceland | [Download](https://up1.autodesk.com/2024/RVT/D9C7D7D8-20FA-36DC-A52B-D2184C1E16B7/RVTCPENICELAND.exe) |
+| India | [Download](https://up1.autodesk.com/2024/RVT/B832CF01-92CC-38FB-B094-2639E0467534/RVTCPENINDIA.exe) |
+| Malaysia | [Download](https://up1.autodesk.com/2024/RVT/3C713A63-0654-3FD1-8B78-733954CB16B2/RVTCPENMALAYSIA.exe) |
+| Netherlands | [Download](https://up1.autodesk.com/2024/RVT/6A94B53C-0C9F-3E5E-B32D-B6E23DE6EADF/RVTCPENNETHERLANDS.exe) |
+| New Zealand | [Download](https://up1.autodesk.com/2024/RVT/80B05C46-FB44-3AB3-9B32-CA7EC4A248F4/RVTCPENNZL.exe) |
+| Norway | [Download](https://up1.autodesk.com/2024/RVT/4A033096-A73E-3213-BDD1-49AEADA69B9E/RVTCPENNORWAY.exe) |
+| Portugal | [Download](https://up1.autodesk.com/2024/RVT/D40B24C9-D14B-3270-A86C-133823E3797E/RVTCPENPORTUGAL.exe) |
+| Romania | [Download](https://up1.autodesk.com/2024/RVT/651516C0-E68C-3134-8D72-31754176F31D/RVTCPENROMANIA.exe) |
+| Singapore | [Download](https://up1.autodesk.com/2024/RVT/8B62445D-88B4-39D6-82FA-5924C4F079DD/RVTCPENSINGAPORE.exe) |
+| South Africa | [Download](https://up1.autodesk.com/2024/RVT/645C9F44-A2A5-33EC-B878-7A413F6FA02D/RVTCPENSAFRICA.exe) |
+| South Asia | [Download](https://up1.autodesk.com/2024/RVT/24820641-B8AB-3653-A3EB-0BAD0ABDA66C/RVTCPENSASIA.exe) |
+| Sweden | [Download](https://up1.autodesk.com/2024/RVT/BFB9C3B5-C7FA-3876-8010-D8107A19BD52/RVTCPENSWEDEN.exe) |
+| Thailand | [Download](https://up1.autodesk.com/2024/RVT/D975B672-4BAD-341A-B17C-5B73DDC1CD0C/RVTCPENTHAILAND.exe) |
+| UK | [Download](https://up1.autodesk.com/2024/RVT/1E0DD33E-6E95-34D5-82B5-30EB2A377512/RVTCPENG.exe) |
+| Europe | [Download](https://up1.autodesk.com/2024/RVT/486B91A6-23A6-3540-9B2E-99C45BFE6350/RVTCPENEURO.exe) |
+| China (GEN) | [Download](https://up1.autodesk.com/2024/RVT/389F40A4-7930-3689-9BB4-F1984B76C290/RVTCPGENCHS.exe) |
+| China | [Download](https://up1.autodesk.com/2024/RVT/83AE0ECE-49E6-3142-9401-A0C7C048BC8D/RVTCPCHS.exe) |
+| Hong Kong, Taiwan, Macau (GEN) | [Download](https://up1.autodesk.com/2024/RVT/2AC92955-9E21-33E1-AA47-9BD49F53227F/RVTCPGENCHT.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://up1.autodesk.com/2024/RVT/BEA8EF5F-1932-3953-91DA-DA625F2109B5/RVTCPCHT.exe) |
+| Czech (GEN) | [Download](https://up1.autodesk.com/2024/RVT/DEF509BC-6F00-39FC-826F-D52B1AEA1976/RVTCPGENCSY.exe) |
+| Czech | [Download](https://up1.autodesk.com/2024/RVT/DEAF9F80-EF56-30B4-AD00-E87C52A8D470/RVTCPCSY.exe) |
+| France (GEN) | [Download](https://up1.autodesk.com/2024/RVT/47687B7F-287F-350F-97DF-DAE85C5F0CB8/RVTCPGENFRA.exe) |
+| France | [Download](https://up1.autodesk.com/2024/RVT/CC26DD4B-1CB7-3202-924C-79E75FD1E60A/RVTCPFRA.exe) |
+| Germany | [Download](https://up1.autodesk.com/2024/RVT/556AE3A6-4B63-3CD1-A0A3-2421C996148E/RVTCPDEU.exe) |
+| Italy (GEN) | [Download](https://up1.autodesk.com/2024/RVT/14AD7782-BA6D-3559-AEE2-5DA843DE2F0B/RVTCPGENITA.exe) |
+| Italy | [Download](https://up1.autodesk.com/2024/RVT/53D7FDA3-86C2-3A88-B4A3-DE78D3F28B0A/RVTCPITA.exe) |
+| Japan (GEN) | [Download](https://up1.autodesk.com/2024/RVT/75C11522-60D7-3E5D-A0FC-D87F7A13FCE0/RVTCPGENJPN.exe) |
+| Japan | [Download](https://up1.autodesk.com/2024/RVT/5D8282FB-C82E-3E53-8C0E-DF0ED6B78D3A/RVTCPJPN.exe) |
+| Korea (GEN) | [Download](https://up1.autodesk.com/2024/RVT/E91CA7EA-AE51-3C0E-99C7-8562D0236260/RVTCPGENKOR.exe) |
+| Korea | [Download](https://up1.autodesk.com/2024/RVT/15A1BE89-B6F3-3FEC-84F1-9290223178E4/RVTCPKOR.exe) |
+| Poland (GEN) | [Download](https://up1.autodesk.com/2024/RVT/7B3E7746-D9F4-341C-96F8-5809017CCC6B/RVTCPGENPLK.exe) |
+| Poland | [Download](https://up1.autodesk.com/2024/RVT/28E94D32-5CE7-35C8-963A-9E3B67CB78AE/RVTCPPLK.exe) |
+| Brazil (GEN) | [Download](https://up1.autodesk.com/2024/RVT/DBC8E7AB-1BCF-3D3D-8315-BBD1D78FE63B/RVTCPGENPTB.exe) |
+| Brazil | [Download](https://up1.autodesk.com/2024/RVT/5FECAFD1-4F1D-308B-9745-03D734E387B7/RVTCPPTB.exe) |
+| Spain (GEN) | [Download](https://up1.autodesk.com/2024/RVT/08A3B404-C62A-3EB9-A64A-30691AA6E31F/RVTCPGENESP.exe) |
+| Spain | [Download](https://up1.autodesk.com/2024/RVT/B3E48222-7C85-3DE6-80C9-5F31ACA2C576/RVTCPESP.exe) |
+| Russia (GEN) | [Download](https://up1.autodesk.com/2024/RVT/44104156-395D-3E19-9110-321D583108AC/RVTCPGENRUS.exe) |
+| Russia | [Download](https://up1.autodesk.com/2024/RVT/5C7C7612-53AB-394D-8798-3BCBCD3A5296/RVTCPRUS.exe) |
 
 ## Revit2023
 
@@ -454,48 +462,50 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2023 64-bit Russia Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/2103C60A-BAA3-385E-8B89-D549D7F094BD/RVTCPGENRUS.exe)
-2. [Revit 2023 64-bit Brazil Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/49CE0705-45B0-3338-9BD8-672506ACEBF7/RVTCPGENPTB.exe)
-3. [Revit 2023 64-bit France Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/814EE4CB-304B-39F1-996D-C7BCF15D72E8/RVTCPGENFRA.exe)
-4. [Revit 2023 64-bit Spain Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/23E39DCD-E879-31AE-AFAB-020994F17CF9/RVTCPGENESP.exe)
-5. [Revit 2023 64-bit Italy Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/935857C1-AFD4-3A1A-BD30-1BDDEE52BADE/RVTCPGENITA.exe)
-6. [Revit 2023 64-bit China Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/2C1B1EEB-C5E1-3862-860A-BD7CC908AB10/RVTCPGENCHS.exe)
-7. [Revit 2023 64-bit Hong Kong, Taiwan, Macau Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/EF77C7C1-9F4A-31E7-9FB1-91003391251A/RVTCPGENCHT.exe)
-8. [Revit 2023 64-bit Japan Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/A8D61569-DF28-354C-B860-AF4590730EEC/RVTCPGENJPN.exe)
-9. [Revit 2023 64-bit Korea Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/E9854FC6-1B83-3BBF-A7D3-A41789AB76D3/RVTCPGENKOR.exe)
-10. [Revit 2023 64-bit Poland Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/E64E61BA-8993-3ED4-A9A1-552011E0F2B7/RVTCPGENPLK.exe)
-11. [Revit 2023 64-bit Czech Family and Template Library (GEN)](https://up1.autodesk.com/2023/RVT/A70B0075-592E-364C-86A0-A247FE472527/RVTCPGENCSY.exe)
-12. [Revit 2023 64-bit Europe Family and Template Library](https://up1.autodesk.com/2023/RVT/2386881F-E824-3C03-9111-17AF5F3B81A0/RVTCPENEURO.exe)
-13. [Revit 2023 64-bit Australia Family and Template Library](https://up1.autodesk.com/2023/RVT/2C1BE6B5-E405-3D9A-AD84-8F282D858AD6/RVTCPENAUS.exe)
-14. [Revit 2023 64-bit Denmark Family and Template Library](https://up1.autodesk.com/2023/RVT/7B6C803B-F9DF-30A0-96C0-EDB3B4845BBD/RVTCPENDENMARK.exe)
-15. [Revit 2023 64-bit Egypt Family and Template Library](https://up1.autodesk.com/2023/RVT/69BAC715-B368-358A-B398-87B5DFD8B750/RVTCPENEGYPT.exe)
-16. [Revit 2023 64-bit Belgium Family and Template Library](https://up1.autodesk.com/2023/RVT/EBFF049B-A158-3137-BAD0-1A182D86206F/RVTCPENBELGIUM.exe)
-17. [Revit 2023 64-bit Canada Family and Template Library](https://up1.autodesk.com/2023/RVT/92A47AF4-C69E-33B0-A96C-4C462CC1C5E7/RVTCPENCAN.exe)
-18. [Revit 2023 64-bit South Africa Family and Template Library](https://up1.autodesk.com/2023/RVT/57F63117-5E52-31A2-9033-527FEC677B0B/RVTCPENSAFRICA.exe)
-19. [Revit 2023 64-bit South Asia Family and Template Library](https://up1.autodesk.com/2023/RVT/2C65941C-E9F5-347C-93FD-C6E283A8ABEE/RVTCPENSASIA.exe)
-20. [Revit 2023 64-bit Thailand Family and Template Library](https://up1.autodesk.com/2023/RVT/5CA7E773-3120-388C-ACFE-6566179FDF20/RVTCPENTHAILAND.exe)
-21. [Revit 2023 64-bit Singapore Family and Template Library](https://up1.autodesk.com/2023/RVT/D6CFE02A-6FB0-35A0-A775-28732F972E1E/RVTCPENSINGAPORE.exe)
-22. [Revit 2023 64-bit Sweden Family and Template Library](https://up1.autodesk.com/2023/RVT/84312E83-C87D-350E-BB9A-F35ADE51B186/RVTCPENSWEDEN.exe)
-23. [Revit 2023 64-bit Romania Family and Template Library](https://up1.autodesk.com/2023/RVT/DB9C9F16-871E-36DB-A1D5-C2D6318D9A22/RVTCPENROMANIA.exe)
-24. [Revit 2023 64-bit Greece Family and Template Library](https://up1.autodesk.com/2023/RVT/BD4FC3CE-48CF-373A-B846-D2817E5CC0D5/RVTCPENGREECE.exe)
-25. [Revit 2023 64-bit India Family and Template Library](https://up1.autodesk.com/2023/RVT/DBC9DACC-A460-354E-BA11-48E9401EF674/RVTCPENINDIA.exe)
-26. [Revit 2023 64-bit Iceland Family and Template Library](https://up1.autodesk.com/2023/RVT/24E3107A-C2EC-3D89-9F8D-42534A0EF5C4/RVTCPENICELAND.exe)
-27. [Revit 2023 64-bit Portugal Family and Template Library](https://up1.autodesk.com/2023/RVT/951F1335-8C34-36F6-91AD-DD9C6B5D5936/RVTCPENPORTUGAL.exe)
-28. [Revit 2023 64-bit Netherlands Family and Template Library](https://up1.autodesk.com/2023/RVT/723C5366-2C15-32A2-AC4E-0F2018E5CC82/RVTCPENNETHERLANDS.exe)
-29. [Revit 2023 64-bit New Zealand Family and Template Library](https://up1.autodesk.com/2023/RVT/17161C84-95FA-3DE8-B6EF-F6CED6881224/RVTCPENNZL.exe)
-30. [Revit 2023 64-bit Japan Family and Template Library](https://up1.autodesk.com/2023/RVT/F2DCCEE1-1A37-3023-9FD9-0CC0C6860D4B/RVTCPJPN.exe)
-31. [Revit 2023 64-bit Italy Family and Template Library](https://up1.autodesk.com/2023/RVT/6BEC0E00-775D-3E1B-A8F8-2CD87909C8F2/RVTCPITA.exe)
-32. [Revit 2023 64-bit US Family and Template Library](https://up1.autodesk.com/2023/RVT/F1815827-A467-3271-A4D5-4738D8BFA997/RVTCPENU.exe)
-33. [Revit 2023 64-bit UK Family and Template Library](https://up1.autodesk.com/2023/RVT/D28C6FE2-1847-3236-BB91-496E265F6E69/RVTCPENG.exe)
-34. [Revit 2023 64-bit France Family and Template Library](https://up1.autodesk.com/2023/RVT/50FCA940-107C-369D-9B8A-E73B0513886E/RVTCPFRA.exe)
-35. [Revit 2023 64-bit Spain Family and Template Library](https://up1.autodesk.com/2023/RVT/1999BE83-35F7-3D84-A1E9-384166FAC707/RVTCPESP.exe)
-36. [Revit 2023 64-bit Czech Family and Template Library](https://up1.autodesk.com/2023/RVT/1BB7F128-C89D-3B50-B91B-46E7A7EC0B19/RVTCPCSY.exe)
-37. [Revit 2023 64-bit Germany Family and Template Library](https://up1.autodesk.com/2023/RVT/75CD3C8F-BA0B-3F74-A903-E4B8DAC9ECAB/RVTCPDEU.exe)
-38. [Revit 2023 64-bit Hong Kong, Taiwan, Macau Family and Template Library](https://up1.autodesk.com/2023/RVT/B7A04A77-6523-30FF-9C68-B256A6F75605/RVTCPCHT.exe)
-39. [Revit 2023 64-bit Poland Family and Template Library](https://up1.autodesk.com/2023/RVT/091560F2-4528-36A9-9BFA-C11560CBF0E1/RVTCPPLK.exe)
-40. [Revit 2023 64-bit Brazil Family and Template Library](https://up1.autodesk.com/2023/RVT/70F4DF8A-D885-3E08-B622-F3834CA3F603/RVTCPPTB.exe)
-41. [Revit 2023 64-bit Russia Family and Template Library](https://up1.autodesk.com/2023/RVT/523E78C7-6248-3A2C-89E0-563A4F1A83AB/RVTCPRUS.exe)
-42. [Revit 2023 64-bit Korea Family and Template Library](https://up1.autodesk.com/2023/RVT/7B0696A2-EC8F-3BDF-9F28-B04321D94BCC/RVTCPKOR.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| Russia (GEN) | [Download](https://up1.autodesk.com/2023/RVT/2103C60A-BAA3-385E-8B89-D549D7F094BD/RVTCPGENRUS.exe) |
+| Brazil (GEN) | [Download](https://up1.autodesk.com/2023/RVT/49CE0705-45B0-3338-9BD8-672506ACEBF7/RVTCPGENPTB.exe) |
+| France (GEN) | [Download](https://up1.autodesk.com/2023/RVT/814EE4CB-304B-39F1-996D-C7BCF15D72E8/RVTCPGENFRA.exe) |
+| Spain (GEN) | [Download](https://up1.autodesk.com/2023/RVT/23E39DCD-E879-31AE-AFAB-020994F17CF9/RVTCPGENESP.exe) |
+| Italy (GEN) | [Download](https://up1.autodesk.com/2023/RVT/935857C1-AFD4-3A1A-BD30-1BDDEE52BADE/RVTCPGENITA.exe) |
+| China (GEN) | [Download](https://up1.autodesk.com/2023/RVT/2C1B1EEB-C5E1-3862-860A-BD7CC908AB10/RVTCPGENCHS.exe) |
+| Hong Kong, Taiwan, Macau (GEN) | [Download](https://up1.autodesk.com/2023/RVT/EF77C7C1-9F4A-31E7-9FB1-91003391251A/RVTCPGENCHT.exe) |
+| Japan (GEN) | [Download](https://up1.autodesk.com/2023/RVT/A8D61569-DF28-354C-B860-AF4590730EEC/RVTCPGENJPN.exe) |
+| Korea (GEN) | [Download](https://up1.autodesk.com/2023/RVT/E9854FC6-1B83-3BBF-A7D3-A41789AB76D3/RVTCPGENKOR.exe) |
+| Poland (GEN) | [Download](https://up1.autodesk.com/2023/RVT/E64E61BA-8993-3ED4-A9A1-552011E0F2B7/RVTCPGENPLK.exe) |
+| Czech (GEN) | [Download](https://up1.autodesk.com/2023/RVT/A70B0075-592E-364C-86A0-A247FE472527/RVTCPGENCSY.exe) |
+| Europe | [Download](https://up1.autodesk.com/2023/RVT/2386881F-E824-3C03-9111-17AF5F3B81A0/RVTCPENEURO.exe) |
+| Australia | [Download](https://up1.autodesk.com/2023/RVT/2C1BE6B5-E405-3D9A-AD84-8F282D858AD6/RVTCPENAUS.exe) |
+| Denmark | [Download](https://up1.autodesk.com/2023/RVT/7B6C803B-F9DF-30A0-96C0-EDB3B4845BBD/RVTCPENDENMARK.exe) |
+| Egypt | [Download](https://up1.autodesk.com/2023/RVT/69BAC715-B368-358A-B398-87B5DFD8B750/RVTCPENEGYPT.exe) |
+| Belgium | [Download](https://up1.autodesk.com/2023/RVT/EBFF049B-A158-3137-BAD0-1A182D86206F/RVTCPENBELGIUM.exe) |
+| Canada | [Download](https://up1.autodesk.com/2023/RVT/92A47AF4-C69E-33B0-A96C-4C462CC1C5E7/RVTCPENCAN.exe) |
+| South Africa | [Download](https://up1.autodesk.com/2023/RVT/57F63117-5E52-31A2-9033-527FEC677B0B/RVTCPENSAFRICA.exe) |
+| South Asia | [Download](https://up1.autodesk.com/2023/RVT/2C65941C-E9F5-347C-93FD-C6E283A8ABEE/RVTCPENSASIA.exe) |
+| Thailand | [Download](https://up1.autodesk.com/2023/RVT/5CA7E773-3120-388C-ACFE-6566179FDF20/RVTCPENTHAILAND.exe) |
+| Singapore | [Download](https://up1.autodesk.com/2023/RVT/D6CFE02A-6FB0-35A0-A775-28732F972E1E/RVTCPENSINGAPORE.exe) |
+| Sweden | [Download](https://up1.autodesk.com/2023/RVT/84312E83-C87D-350E-BB9A-F35ADE51B186/RVTCPENSWEDEN.exe) |
+| Romania | [Download](https://up1.autodesk.com/2023/RVT/DB9C9F16-871E-36DB-A1D5-C2D6318D9A22/RVTCPENROMANIA.exe) |
+| Greece | [Download](https://up1.autodesk.com/2023/RVT/BD4FC3CE-48CF-373A-B846-D2817E5CC0D5/RVTCPENGREECE.exe) |
+| India | [Download](https://up1.autodesk.com/2023/RVT/DBC9DACC-A460-354E-BA11-48E9401EF674/RVTCPENINDIA.exe) |
+| Iceland | [Download](https://up1.autodesk.com/2023/RVT/24E3107A-C2EC-3D89-9F8D-42534A0EF5C4/RVTCPENICELAND.exe) |
+| Portugal | [Download](https://up1.autodesk.com/2023/RVT/951F1335-8C34-36F6-91AD-DD9C6B5D5936/RVTCPENPORTUGAL.exe) |
+| Netherlands | [Download](https://up1.autodesk.com/2023/RVT/723C5366-2C15-32A2-AC4E-0F2018E5CC82/RVTCPENNETHERLANDS.exe) |
+| New Zealand | [Download](https://up1.autodesk.com/2023/RVT/17161C84-95FA-3DE8-B6EF-F6CED6881224/RVTCPENNZL.exe) |
+| Japan | [Download](https://up1.autodesk.com/2023/RVT/F2DCCEE1-1A37-3023-9FD9-0CC0C6860D4B/RVTCPJPN.exe) |
+| Italy | [Download](https://up1.autodesk.com/2023/RVT/6BEC0E00-775D-3E1B-A8F8-2CD87909C8F2/RVTCPITA.exe) |
+| US | [Download](https://up1.autodesk.com/2023/RVT/F1815827-A467-3271-A4D5-4738D8BFA997/RVTCPENU.exe) |
+| UK | [Download](https://up1.autodesk.com/2023/RVT/D28C6FE2-1847-3236-BB91-496E265F6E69/RVTCPENG.exe) |
+| France | [Download](https://up1.autodesk.com/2023/RVT/50FCA940-107C-369D-9B8A-E73B0513886E/RVTCPFRA.exe) |
+| Spain | [Download](https://up1.autodesk.com/2023/RVT/1999BE83-35F7-3D84-A1E9-384166FAC707/RVTCPESP.exe) |
+| Czech | [Download](https://up1.autodesk.com/2023/RVT/1BB7F128-C89D-3B50-B91B-46E7A7EC0B19/RVTCPCSY.exe) |
+| Germany | [Download](https://up1.autodesk.com/2023/RVT/75CD3C8F-BA0B-3F74-A903-E4B8DAC9ECAB/RVTCPDEU.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://up1.autodesk.com/2023/RVT/B7A04A77-6523-30FF-9C68-B256A6F75605/RVTCPCHT.exe) |
+| Poland | [Download](https://up1.autodesk.com/2023/RVT/091560F2-4528-36A9-9BFA-C11560CBF0E1/RVTCPPLK.exe) |
+| Brazil | [Download](https://up1.autodesk.com/2023/RVT/70F4DF8A-D885-3E08-B622-F3834CA3F603/RVTCPPTB.exe) |
+| Russia | [Download](https://up1.autodesk.com/2023/RVT/523E78C7-6248-3A2C-89E0-563A4F1A83AB/RVTCPRUS.exe) |
+| Korea | [Download](https://up1.autodesk.com/2023/RVT/7B0696A2-EC8F-3BDF-9F28-B04321D94BCC/RVTCPKOR.exe) |
 
 ## Revit2022
 
@@ -551,29 +561,31 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2022 Content Libraries China Family Extension Pack](https://up.autodesk.com/2022/RVT/8A269526-700F-38F4-A481-25BB1B628B9A/RVTCPCHS.exe)
-2. [Revit 2022 Content Libraries Taiwan Family Extension Pack](https://up.autodesk.com/2022/RVT/EFEEFE3F-516F-3854-BCD4-5DB00222AFF6//RVTCPCHT.exe)
-3. [Revit 2022 Content Libraries Egypt Family Library](https://up.autodesk.com/2022/RVT/2226B083-F772-37E3-AA9C-F40F298941F3/RVTCPENEGYPT.exe)
-4. [Revit 2022 Content Libraries Canada Family Library](https://up.autodesk.com/2022/RVT/9A052150-95FA-315C-B7CA-CCBBCCB9A7C5/RVTCPENCAN.exe)
-5. [Revit 2022 Content Libraries Denmark Family Library](https://up.autodesk.com/2022/RVT/DF2F4730-4CEF-39A2-B7B3-9FC910F90369/RVTCPENDENMARK.exe)
-6. [Revit 2022 Content Libraries France Family Library](https://up.autodesk.com/2022/RVT/9AE453D0-9164-3DC7-BC41-A2532F16E951/RVTCPFRA.exe)
-7. [Revit 2022 Content Libraries Singapore Family Library](https://up.autodesk.com/2022/RVT/6F2CEA7C-6231-3688-BCA1-24E2A22D4A2B/RVTCPENSINGAPORE.exe)
-8. [Revit 2022 Content Libraries South Africa Family Library](https://up.autodesk.com/2022/RVT/47CB21CB-4ECE-3859-A07E-D2FCAD13F9D8/RVTCPENSAFRICA.exe)
-9. [Revit 2022 Content Libraries Spain Family Library](https://up.autodesk.com/2022/RVT/C2445E35-54AC-3702-A509-7BF5CC67B8A4//RVTCPESP.exe)
-10. [Revit 2022 Content Libraries Russia Family Library](https://up.autodesk.com/2022/RVT/0DE311E2-DA98-3B27-8F35-40939763ABE7//RVTCPRUS.exe)
-11. [Revit 2022 Content Libraries Poland Family Library](https://up.autodesk.com/2022/RVT/261D44C4-312C-3EA2-B578-865EE73B465C//RVTCPPLK.exe)
-12. [Revit 2022 Content Libraries Korea Family Library](https://up.autodesk.com/2022/RVT/0918C180-1BB5-3152-A8F8-FC225883A48F//RVTCPKOR.exe)
-13. [Revit 2022 Content Libraries Italy Family Library](https://up.autodesk.com/2022/RVT/7F57DBF2-079D-3E70-989C-7DD00DA707C9//RVTCPITA.exe)
-14. [Revit 2022 Content Libraries Czech Family Library](https://up.autodesk.com/2022/RVT/E8D54E74-9521-3F8B-BACF-FD3A2381CA2F//RVTCPCSY.exe)
-15. [Revit 2022 Content Libraries Brazil Portuguese Family Library](https://up.autodesk.com/2022/RVT/B9C42284-2173-3859-AA04-EE45CC2B3E19//RVTCPPTB.exe)
-16. [Revit 2022 Content Libraries Thailand Family Library](https://up.autodesk.com/2022/RVT/005ABFBC-C8FE-3523-BA95-2AD5F7DC1974//RVTCPENTHAILAND.exe)
-17. [Revit 2022 Content Libraries Sweden Family Library](https://up.autodesk.com/2022/RVT/C575DE4D-C597-37D6-B843-D18FD6B00401//RVTCPENSWEDEN.exe)
-18. [Revit 2022 Content Libraries South Asia and Southeast Asia Family Library](https://up.autodesk.com/2022/RVT/F6CAA344-7CBA-3741-804C-417669299DAA//RVTCPENSASIA.exe)
-19. [Revit 2022 Content Libraries Romania Family Library](https://up.autodesk.com/2022/RVT/E3010F8F-4709-37A0-A350-EF9748E1448F//RVTCPENROMANIA.exe)
-20. [Revit 2022 Content Libraries Germany Family Library](https://up.autodesk.com/2022/RVT/69D22CB6-23CB-3B31-A8FE-BFCFA2953138/RVTCPDEU.exe)
-21. [Revit 2022 Content Libraries Japan Family Library](https://up.autodesk.com/2022/RVT/74907384-7487-3863-A3A5-F4301B5662B9/RVTCPJPN.exe)
-22. [Revit 2022 Content Libraries UK Family Library](https://up.autodesk.com/2022/RVT/013E135A-0414-3D38-ACAA-AD84529FE856/RVTCPENG.exe)
-23. [Revit 2022 Content Libraries US Family Library](https://up.autodesk.com/2022/RVT/B8322C50-CA90-339E-80AD-A11ABA519F7E/RVTCPENU.exe)
+| Region / Language | Content Pack |
+| --- | --- |
+| China Family Extension Pack | [Download](https://up.autodesk.com/2022/RVT/8A269526-700F-38F4-A481-25BB1B628B9A/RVTCPCHS.exe) |
+| Taiwan Family Extension Pack | [Download](https://up.autodesk.com/2022/RVT/EFEEFE3F-516F-3854-BCD4-5DB00222AFF6//RVTCPCHT.exe) |
+| Egypt Family Library | [Download](https://up.autodesk.com/2022/RVT/2226B083-F772-37E3-AA9C-F40F298941F3/RVTCPENEGYPT.exe) |
+| Canada Family Library | [Download](https://up.autodesk.com/2022/RVT/9A052150-95FA-315C-B7CA-CCBBCCB9A7C5/RVTCPENCAN.exe) |
+| Denmark Family Library | [Download](https://up.autodesk.com/2022/RVT/DF2F4730-4CEF-39A2-B7B3-9FC910F90369/RVTCPENDENMARK.exe) |
+| France Family Library | [Download](https://up.autodesk.com/2022/RVT/9AE453D0-9164-3DC7-BC41-A2532F16E951/RVTCPFRA.exe) |
+| Singapore Family Library | [Download](https://up.autodesk.com/2022/RVT/6F2CEA7C-6231-3688-BCA1-24E2A22D4A2B/RVTCPENSINGAPORE.exe) |
+| South Africa Family Library | [Download](https://up.autodesk.com/2022/RVT/47CB21CB-4ECE-3859-A07E-D2FCAD13F9D8/RVTCPENSAFRICA.exe) |
+| Spain Family Library | [Download](https://up.autodesk.com/2022/RVT/C2445E35-54AC-3702-A509-7BF5CC67B8A4//RVTCPESP.exe) |
+| Russia Family Library | [Download](https://up.autodesk.com/2022/RVT/0DE311E2-DA98-3B27-8F35-40939763ABE7//RVTCPRUS.exe) |
+| Poland Family Library | [Download](https://up.autodesk.com/2022/RVT/261D44C4-312C-3EA2-B578-865EE73B465C//RVTCPPLK.exe) |
+| Korea Family Library | [Download](https://up.autodesk.com/2022/RVT/0918C180-1BB5-3152-A8F8-FC225883A48F//RVTCPKOR.exe) |
+| Italy Family Library | [Download](https://up.autodesk.com/2022/RVT/7F57DBF2-079D-3E70-989C-7DD00DA707C9//RVTCPITA.exe) |
+| Czech Family Library | [Download](https://up.autodesk.com/2022/RVT/E8D54E74-9521-3F8B-BACF-FD3A2381CA2F//RVTCPCSY.exe) |
+| Brazil Portuguese Family Library | [Download](https://up.autodesk.com/2022/RVT/B9C42284-2173-3859-AA04-EE45CC2B3E19//RVTCPPTB.exe) |
+| Thailand Family Library | [Download](https://up.autodesk.com/2022/RVT/005ABFBC-C8FE-3523-BA95-2AD5F7DC1974//RVTCPENTHAILAND.exe) |
+| Sweden Family Library | [Download](https://up.autodesk.com/2022/RVT/C575DE4D-C597-37D6-B843-D18FD6B00401//RVTCPENSWEDEN.exe) |
+| South Asia and Southeast Asia Family Library | [Download](https://up.autodesk.com/2022/RVT/F6CAA344-7CBA-3741-804C-417669299DAA//RVTCPENSASIA.exe) |
+| Romania Family Library | [Download](https://up.autodesk.com/2022/RVT/E3010F8F-4709-37A0-A350-EF9748E1448F//RVTCPENROMANIA.exe) |
+| Germany Family Library | [Download](https://up.autodesk.com/2022/RVT/69D22CB6-23CB-3B31-A8FE-BFCFA2953138/RVTCPDEU.exe) |
+| Japan Family Library | [Download](https://up.autodesk.com/2022/RVT/74907384-7487-3863-A3A5-F4301B5662B9/RVTCPJPN.exe) |
+| UK Family Library | [Download](https://up.autodesk.com/2022/RVT/013E135A-0414-3D38-ACAA-AD84529FE856/RVTCPENG.exe) |
+| US Family Library | [Download](https://up.autodesk.com/2022/RVT/B8322C50-CA90-339E-80AD-A11ABA519F7E/RVTCPENU.exe) |
 
 ## Revit2021
 
@@ -661,106 +673,58 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2021 64-bit US Imperial Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Imperial_FamTemplates_Templates.exe)
-2. [Revit 2021 64-bit US Imperial Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Imperial_Libraries.exe)
-3. [Revit 2021 64-bit US Metric Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Metric_FamTemplates_Templates.exe)
-4. [Revit 2021 64-bit US Metric Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Metric_Libraries.exe)
-5. [Revit 2021 64-bit Australia Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_AUS_FamTemplates_Templates.exe)
-6. [Revit 2021 64-bit Australia Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_AUS_Libraries.exe)
-7. [Revit 2021 64-bit Belgium Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_BEL_FamTemplatesTemplates.exe)
-8. [Revit 2021 64-bit Belgium Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_BEL_Libraries.exe)
-9. [Revit 2021 64-bit Canada Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_CAN_FamTemplates_Templates.exe)
-10. [Revit 2021 64-bit Canada Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_CAN_Libraries.exe)
-11. [Revit 2021 64-bit Denmark Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_DNK_FamTemplates_Templates.exe)
-12. [Revit 2021 64-bit Denmark Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_DNK_Libraries.exe)
-13. [Revit 2021 64-bit Egypt Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_EGY_FamTemplates_Templates.exe)
-14. [Revit 2021 64-bit Egypt Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_EGY_Libraries.exe)
-15. [Revit 2021 64-bit Finland Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_FIN_FamTemplates_Templates.exe)
-16. [Revit 2021 64-bit Finland Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_FIN_Libraries.exe)
-17. [Revit 2021 64-bit Greece Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_GRC_FamTemplates_Templates.exe)
-18. [Revit 2021 64-bit Greece Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_GRC_Libraries.exe)
-19. [Revit 2021 64-bit Hong Kong Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_Hong_Kong_FamTemplates_Templates.exe)
-20. [Revit 2021 64-bit Hong Kong Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_Hong_Kong_Libraries.exe)
-21. [Revit 2021 64-bit Iceland Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ISL_FamTemplates_Templates.exe)
-22. [Revit 2021 64-bit Iceland Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ISL_Libraries.exe)
-23. [Revit 2021 64-bit India Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_IND_FamTemplates_Templates.exe)
-24. [Revit 2021 64-bit India Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_IND_Libraries.exe)
-25. [Revit 2021 64-bit Malaysia Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_MSY_FamTemplates_Templates.exe)
-26. [Revit 2021 64-bit Malaysia Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_MSY_Libraries.exe)
-27. [Revit 2021 64-bit Netherlands Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NLD_FamTemplates_Templates.exe)
-28. [Revit 2021 64-bit Netherlands Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NLD_Libraries.exe)
-29. [Revit 2021 64-bit New Zealand Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NZL_FamTemplates_Templates.exe)
-30. [Revit 2021 64-bit New Zealand Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NZL_Libraries.exe)
-31. [Revit 2021 64-bit Norway Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NOR_FamTemplates_Templates.exe)
-32. [Revit 2021 64-bit Norway Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NOR_Libraries.exe)
-33. [Revit 2021 64-bit Portugal Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_PRT_FamTemplates_Templates.exe)
-34. [Revit 2021 64-bit Portugal Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_PRT_Libraries.exe)
-35. [Revit 2021 64-bit Romania Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ROU_FamTemplates_Templates.exe)
-36. [Revit 2021 64-bit Romania Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ROU_Libraries.exe)
-37. [Revit 2021 64-bit Singapore Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SGP_FamTemplates_Templates.exe)
-38. [Revit 2021 64-bit Singapore Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SGP_Libraries.exe)
-39. [Revit 2021 64-bit South Africa Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ZAF_FamTemplates_Templates.exe)
-40. [Revit 2021 64-bit South Africa Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ZAF_Libraries.exe)
-41. [Revit 2021 64-bit South Asia Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_South_Asia_FamTemplates_Templates.exe)
-42. [Revit 2021 64-bit South Asia Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_South_Asia_Libraries.exe)
-43. [Revit 2021 64-bit Sweden Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SWE_FamTemplates_Templates.exe)
-44. [Revit 2021 64-bit Sweden Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SWE_Libraries.exe)
-45. [Revit 2021 64-bit Thailand Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_THA_FamTemplates_Templates.exe)
-46. [Revit 2021 64-bit Thailand Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_THA_Libraries.exe)
-47. [Revit 2021 64-bit UK Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENG_FamTemplates_Templates.exe)
-48. [Revit 2021 64-bit UK Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENG_Libraries.exe)
-49. [Revit 2021 64-bit Mainland China Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_FamTemplates_Templates.exe)
-50. [Revit 2021 64-bit Mainland China Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_Libraries.exe)
-51. [Revit 2021 64-bit Mainland China International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_INTL_FamTemplates_Templates.exe)
-52. [Revit 2021 64-bit Mainland China International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_INTL_Libraries.exe)
-53. [Revit 2021 64-bit Hong Kong, Taiwan, Macau Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_FamTemplates_Templates.exe)
-54. [Revit 2021 64-bit Hong Kong, Taiwan, Macau Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_Libraries.exe)
-55. [Revit 2021 64-bit Hong Kong, Taiwan, Macau International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_INTL_FamTemplates_Templates.exe)
-56. [Revit 2021 64-bit Hong Kong, Taiwan, Macau International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_INTL_Libraries.exe)
-57. [Revit 2021 64-bit Czech Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_FamTemplates_Templates.exe)
-58. [Revit 2021 64-bit Czech Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_Libraries.exe)
-59. [Revit 2021 64-bit Czech International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_INTL_FamTemplates_Templates.exe)
-60. [Revit 2021 64-bit Czech International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_INTL_Libraries.exe)
-61. [Revit 2021 64-bit France Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_FamTemplates_Templates.exe)
-62. [Revit 2021 64-bit France Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_Libraries.exe)
-63. [Revit 2021 64-bit France International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_INTL_FamTemplates_Templates.exe)
-64. [Revit 2021 64-bit France International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_INTL_Libraries.exe)
-65. [Revit 2021 64-bit Germany Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/DEU/RVT2021_DEU_FamTemplates_Templates.exe)
-66. [Revit 2021 64-bit Germany Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/DEU/RVT2021_DEU_Libraries.exe)
-67. [Revit 2021 64-bit Italy Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_FamTemplates_Templates.exe)
-68. [Revit 2021 64-bit Italy Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_Libraries.exe)
-69. [Revit 2021 64-bit Italy International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_INTL_FamTemplates_Templates.exe)
-70. [Revit 2021 64-bit Italy International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_INTL_Libraries.exe)
-71. [Revit 2021 64-bit Japan Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_FamTemplates_Templates.exe)
-72. [Revit 2021 64-bit Japan Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_Libraries.exe)
-73. [Revit 2021 64-bit Japan International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_INTL_FamTemplates_Templates.exe)
-74. [Revit 2021 64-bit Japan International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_INTL_Libraries.exe)
-75. [Revit 2021 64-bit Japan Regional Standard Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_RUG_FamTemplates_Templates.exe)
-76. [Revit 2021 64-bit Japan Regional Standard Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_RUG_Libraries.exe)
-77. [Revit 2021 64-bit Korea Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_FamTemplates_Templates.exe)
-78. [Revit 2021 64-bit Korea Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_Libraries.exe)
-79. [Revit 2021 64-bit Korea International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_INTL_FamTemplates_Templates.exe)
-80. [Revit 2021 64-bit Korea International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_INTL_Libraries.exe)
-81. [Revit 2021 64-bit Poland Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_FamTemplates_Templates.exe)
-82. [Revit 2021 64-bit Poland Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_Libraries.exe)
-83. [Revit 2021 64-bit Poland International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_INTL_FamTemplates_Templates.exe)
-84. [Revit 2021 64-bit Poland International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_INTL_Libraries.exe)
-85. [Revit 2021 64-bit Brazil Portuguese Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_FamTemplates_Templates.exe)
-86. [Revit 2021 64-bit Brazil Portuguese Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_Libraries.exe)
-87. [Revit 2021 64-bit Brazil Portuguese International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_INTL_FamTemplates_Templates.exe)
-88. [Revit 2021 64-bit Brazil Portuguese International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_INTL_Libraries.exe)
-89. [Revit 2021 64-bit Spain Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_FamTemplates_Templates.exe)
-90. [Revit 2021 64-bit Spain Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_Libraries.exe)
-91. [Revit 2021 64-bit Spain International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_INTL_FamTemplates_Templates.exe)
-92. [Revit 2021 64-bit Spain International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_INTL_Libraries.exe)
-93. [Revit 2021 64-bit Belarus Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_BLR_FamTemplates_Templates.exe)
-94. [Revit 2021 64-bit Belarus Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_BLR_Libraries.exe)
-95. [Revit 2021 64-bit Russia Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_FamTemplates_Templates.exe)
-96. [Revit 2021 64-bit Russia Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_Libraries.exe)
-97. [Revit 2021 64-bit Russia International Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_INTL_FamTemplates_Templates.exe)
-98. [Revit 2021 64-bit Russia International Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_INTL_Libraries.exe)
-99. [Revit 2021 64-bit Ukraine Template Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_UKR_FamTemplates_Templates.exe)
-100. [Revit 2021 64-bit Ukraine Family Library](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_UKR_Libraries.exe)
+| Region / Standard | Family Library | Templates |
+| --- | --- | --- |
+| US Imperial | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Imperial_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Imperial_FamTemplates_Templates.exe) |
+| US Metric | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Metric_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENU_Metric_FamTemplates_Templates.exe) |
+| Australia | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_AUS_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_AUS_FamTemplates_Templates.exe) |
+| Belgium | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_BEL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_BEL_FamTemplatesTemplates.exe) |
+| Canada | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_CAN_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_CAN_FamTemplates_Templates.exe) |
+| Denmark | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_DNK_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_DNK_FamTemplates_Templates.exe) |
+| Egypt | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_EGY_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_EGY_FamTemplates_Templates.exe) |
+| Finland | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_FIN_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_FIN_FamTemplates_Templates.exe) |
+| Greece | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_GRC_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_GRC_FamTemplates_Templates.exe) |
+| Hong Kong | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_Hong_Kong_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_Hong_Kong_FamTemplates_Templates.exe) |
+| Iceland | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ISL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ISL_FamTemplates_Templates.exe) |
+| India | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_IND_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_IND_FamTemplates_Templates.exe) |
+| Malaysia | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_MSY_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_MSY_FamTemplates_Templates.exe) |
+| Netherlands | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NLD_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NLD_FamTemplates_Templates.exe) |
+| New Zealand | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NZL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NZL_FamTemplates_Templates.exe) |
+| Norway | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NOR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_NOR_FamTemplates_Templates.exe) |
+| Portugal | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_PRT_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_PRT_FamTemplates_Templates.exe) |
+| Romania | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ROU_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ROU_FamTemplates_Templates.exe) |
+| Singapore | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SGP_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SGP_FamTemplates_Templates.exe) |
+| South Africa | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ZAF_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ZAF_FamTemplates_Templates.exe) |
+| South Asia | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_South_Asia_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_South_Asia_FamTemplates_Templates.exe) |
+| Sweden | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SWE_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_SWE_FamTemplates_Templates.exe) |
+| Thailand | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_THA_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_THA_FamTemplates_Templates.exe) |
+| UK | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENG_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/EN/RVT2021_ENG_FamTemplates_Templates.exe) |
+| Mainland China | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_FamTemplates_Templates.exe) |
+| Mainland China International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHS/RVT2021_CHS_INTL_FamTemplates_Templates.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_FamTemplates_Templates.exe) |
+| Hong Kong, Taiwan, Macau International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CHT/RVT2021_CHT_INTL_FamTemplates_Templates.exe) |
+| Czech | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_FamTemplates_Templates.exe) |
+| Czech International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/CSY/RVT2021_CSY_INTL_FamTemplates_Templates.exe) |
+| France | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_FamTemplates_Templates.exe) |
+| France International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/FRA/RVT2021_FRA_INTL_FamTemplates_Templates.exe) |
+| Germany | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/DEU/RVT2021_DEU_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/DEU/RVT2021_DEU_FamTemplates_Templates.exe) |
+| Italy | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_FamTemplates_Templates.exe) |
+| Italy International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ITA/RVT2021_ITA_INTL_FamTemplates_Templates.exe) |
+| Japan | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_FamTemplates_Templates.exe) |
+| Japan International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_INTL_FamTemplates_Templates.exe) |
+| Japan Regional Standard | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_RUG_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/JPN/RVT2021_JPN_RUG_FamTemplates_Templates.exe) |
+| Korea | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_FamTemplates_Templates.exe) |
+| Korea International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/KOR/RVT2021_KOR_INTL_FamTemplates_Templates.exe) |
+| Poland | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_FamTemplates_Templates.exe) |
+| Poland International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PLK/RVT2021_PLK_INTL_FamTemplates_Templates.exe) |
+| Brazil Portuguese | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_FamTemplates_Templates.exe) |
+| Brazil Portuguese International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/PTB/RVT2021_PTB_INTL_FamTemplates_Templates.exe) |
+| Spain | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_FamTemplates_Templates.exe) |
+| Spain International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/ESP/RVT2021_ESP_INTL_FamTemplates_Templates.exe) |
+| Belarus | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_BLR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_BLR_FamTemplates_Templates.exe) |
+| Russia | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_FamTemplates_Templates.exe) |
+| Russia International | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_INTL_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_RUS_INTL_FamTemplates_Templates.exe) |
+| Ukraine | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_UKR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2021RVT_RTM/Content/Language/RVT/RUS/RVT2021_UKR_FamTemplates_Templates.exe) |
 
 > Note: Lower-version family libraries can be used in higher-version Revit software, but higher-version family libraries cannot be opened in lower-version Revit software.
 
@@ -850,62 +814,46 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 ### Family and Template Libraries
 
-1. [Revit 2020 64-bit US Imperial Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENU_Imperial_FamTemplates_Templates.exe)
-2. [Revit 2020 64-bit US Metric Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENU_Metric_FamTemplates_Templates.exe)
-3. [Revit 2020 64-bit Australia Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_AUS_Content.exe)
-4. [Revit 2020 64-bit Belgium Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_BEL_Content.exe)
-5. [Revit 2020 64-bit Canada Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_CAN_Content.exe)
-6. [Revit 2020 64-bit Denmark Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_DNK_Content.exe)
-7. [Revit 2020 64-bit Egypt Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_EGY_Content.exe)
-8. [Revit 2020 64-bit Finland Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_FIN_Content.exe)
-9. [Revit 2020 64-bit Greece Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_GRC_Content.exe)
-10. [Revit 2020 64-bit Hong Kong Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_Hong_Kong_Content.exe)
-11. [Revit 2020 64-bit Iceland Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ISL_Content.exe)
-12. [Revit 2020 64-bit India Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_IND_Content.exe)
-13. [Revit 2020 64-bit Malaysia Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_MSY_Content.exe)
-14. [Revit 2020 64-bit Netherlands Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NLD_Content.exe)
-15. [Revit 2020 64-bit New Zealand Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NZL_Content.exe)
-16. [Revit 2020 64-bit Norway Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NOR_Content.exe)
-17. [Revit 2020 64-bit Portugal Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_PRT_Content.exe)
-18. [Revit 2020 64-bit Romania Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ROU_Content.exe)
-19. [Revit 2020 64-bit Singapore Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_SGP_Content.exe)
-20. [Revit 2020 64-bit South Africa Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ZAF_Content.exe)
-21. [Revit 2020 64-bit South Asia Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_South_Asia_Content.exe)
-22. [Revit 2020 64-bit Sweden Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_SWE_Content.exe)
-23. [Revit 2020 64-bit Thailand Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_THA_Content.exe)
-24. [Revit 2020 64-bit UK Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENG_Content.exe)
-25. [Revit 2020 64-bit US Imperial Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_USA_Imperial_Libraries.exe)
-26. [Revit 2020 64-bit US Metric Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_USA_Metric_Libraries.exe)
-27. [Revit 2020 64-bit Mainland China Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHS/RVT_2020_CHS_FamTemplates_Templates.exe)
-28. [Revit 2020 64-bit Mainland China Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHS/RVT_2020_CHS_Libraries.exe)
-29. [Revit 2020 64-bit Hong Kong, Taiwan, Macau Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHT/RVT_2020_CHT_FamTemplates_Templates.exe)
-30. [Revit 2020 64-bit Hong Kong, Taiwan, Macau Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHT/RVT_2020_CHT_Libraries.exe)
-31. [Revit 2020 64-bit Czech Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CSY/RVT_2020_CSY_FamTemplates_Templates.exe)
-32. [Revit 2020 64-bit Czech Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CSY/RVT_2020_CSY_Libraries.exe)
-33. [Revit 2020 64-bit France Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/FRA/RVT_2020_FRA_FamTemplates_Templates.exe)
-34. [Revit 2020 64-bit France Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/FRA/RVT_2020_FRA_Libraries.exe)
-35. [Revit 2020 64-bit Germany Family Library (Engineering)](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_Engineering.exe)
-36. [Revit 2020 64-bit Germany Family Library (BIM)](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_BIM.exe)
-37. [Revit 2020 64-bit Germany Family Library (Architecture)](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_Arch.exe)
-38. [Revit 2020 64-bit Germany Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_FamTemplates_Templates.exe)
-39. [Revit 2020 64-bit Italy Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ITA/RVT_2020_ITA_FamTemplates_Templates.exe)
-40. [Revit 2020 64-bit Italy Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ITA/RVT_2020_ITA_Libraries.exe)
-41. [Revit 2020 64-bit Japan Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/JPN/RVT_2020_JPN_FamTemplates_Templates.exe)
-42. [Revit 2020 64-bit Japan Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/JPN/RVT_2020_JPN_Libraries.exe)
-43. [Revit 2020 64-bit Korea Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/KOR/RVT_2020_KOR_FamTemplates_Templates.exe)
-44. [Revit 2020 64-bit Korea Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/KOR/RVT_2020_KOR_Libraries.exe)
-45. [Revit 2020 64-bit Poland Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PLK/RVT_2020_PLK_FamTemplates_Templates.exe)
-46. [Revit 2020 64-bit Poland Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PLK/RVT_2020_PLK_Libraries.exe)
-47. [Revit 2020 64-bit Brazil Portuguese Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PTB/RVT_2020_PTB_FamTemplates_Templates.exe)
-48. [Revit 2020 64-bit Brazil Portuguese Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PTB/RVT_2020_PTB_Libraries.exe)
-49. [Revit 2020 64-bit Spain Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ESP/RVT_2020_ESP_FamTemplates_Templates.exe)
-50. [Revit 2020 64-bit Spain Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ESP/RVT_2020_ESP_Libraries.exe)
-51. [Revit 2020 64-bit Belarus Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_BLR_FamTemplates_Templates.exe)
-52. [Revit 2020 64-bit Belarus Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_BLR_Libraries.exe)
-53. [Revit 2020 64-bit Russia Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_RUS_FamTemplates_Templates.exe)
-54. [Revit 2020 64-bit Russia Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_RUS_Libraries.exe)
-55. [Revit 2020 64-bit Ukraine Template Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_UKR_FamTemplates_Templates.exe)
-56. [Revit 2020 64-bit Ukraine Family Library](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_UKR_Libraries.exe)
+| Region / Standard | Family Library | Templates |
+| --- | --- | --- |
+| US Imperial | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_USA_Imperial_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENU_Imperial_FamTemplates_Templates.exe) |
+| US Metric | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_USA_Metric_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENU_Metric_FamTemplates_Templates.exe) |
+| Australia | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_AUS_Content.exe) | — |
+| Belgium | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_BEL_Content.exe) | — |
+| Canada | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_CAN_Content.exe) | — |
+| Denmark | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_DNK_Content.exe) | — |
+| Egypt | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_EGY_Content.exe) | — |
+| Finland | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_FIN_Content.exe) | — |
+| Greece | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_GRC_Content.exe) | — |
+| Hong Kong | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_Hong_Kong_Content.exe) | — |
+| Iceland | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ISL_Content.exe) | — |
+| India | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_IND_Content.exe) | — |
+| Malaysia | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_MSY_Content.exe) | — |
+| Netherlands | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NLD_Content.exe) | — |
+| New Zealand | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NZL_Content.exe) | — |
+| Norway | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_NOR_Content.exe) | — |
+| Portugal | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_PRT_Content.exe) | — |
+| Romania | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ROU_Content.exe) | — |
+| Singapore | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_SGP_Content.exe) | — |
+| South Africa | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ZAF_Content.exe) | — |
+| South Asia | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_South_Asia_Content.exe) | — |
+| Sweden | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_SWE_Content.exe) | — |
+| Thailand | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_THA_Content.exe) | — |
+| UK | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/EN/RVT2020_ENG_Content.exe) | — |
+| Mainland China | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHS/RVT_2020_CHS_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHS/RVT_2020_CHS_FamTemplates_Templates.exe) |
+| Hong Kong, Taiwan, Macau | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHT/RVT_2020_CHT_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CHT/RVT_2020_CHT_FamTemplates_Templates.exe) |
+| Czech | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CSY/RVT_2020_CSY_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/CSY/RVT_2020_CSY_FamTemplates_Templates.exe) |
+| France | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/FRA/RVT_2020_FRA_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/FRA/RVT_2020_FRA_FamTemplates_Templates.exe) |
+| Germany | [Engineering](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_Engineering.exe) · [BIM](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_BIM.exe) · [Architecture](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_Libraries_Arch.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/DEU/RVT_2020_DEU_FamTemplates_Templates.exe) |
+| Italy | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ITA/RVT_2020_ITA_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ITA/RVT_2020_ITA_FamTemplates_Templates.exe) |
+| Japan | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/JPN/RVT_2020_JPN_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/JPN/RVT_2020_JPN_FamTemplates_Templates.exe) |
+| Korea | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/KOR/RVT_2020_KOR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/KOR/RVT_2020_KOR_FamTemplates_Templates.exe) |
+| Poland | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PLK/RVT_2020_PLK_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PLK/RVT_2020_PLK_FamTemplates_Templates.exe) |
+| Brazil Portuguese | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PTB/RVT_2020_PTB_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/PTB/RVT_2020_PTB_FamTemplates_Templates.exe) |
+| Spain | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ESP/RVT_2020_ESP_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/ESP/RVT_2020_ESP_FamTemplates_Templates.exe) |
+| Belarus | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_BLR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_BLR_FamTemplates_Templates.exe) |
+| Russia | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_RUS_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_RUS_FamTemplates_Templates.exe) |
+| Ukraine | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_UKR_Libraries.exe) | [Download](https://revit.downloads.autodesk.com/download/2020RVT_RTM/Content/Language/RVT/RUS/RVT_2020_UKR_FamTemplates_Templates.exe) |
 
 ## Revit2019
 
