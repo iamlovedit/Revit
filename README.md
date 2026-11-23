@@ -31,6 +31,10 @@
 
 - [Revit_2027_0_2.exe](https://up1.autodesk.com/prd/2027/RVT/664BBF3C-085B-3CD3-A465-2AA5312BEA82/Revit_2027_0_2.exe)
 
+#### 2027.1
+
+- [Autodesk 官方发布说明](https://help.autodesk.com/cloudhelp/2027/ENU/RevitReleaseNotes/files/2027updates/RevitReleaseNotes_2027updates_2027_1_html.html)：2026-06-16 发布，内部版本号 `27.1.0.45`。[Autodesk 已标记此补丁被 2027.2 取代](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6W4pz5Mds7QTzYKVVTO6r.html)，未核实公开安装包直链。
+
 #### 2027.2.0
 
 - [Revit_2027_2_0.exe](https://up1.autodesk.com/prd/2027/RVT/8C95356B-C1ED-35EE-9E4E-BCD718965B71/Revit_2027_2_0.exe)
