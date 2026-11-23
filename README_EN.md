@@ -29,6 +29,10 @@ If you find new Autodesk official download links, patch links, or broken links, 
 
 - [Revit_2027_0_2.exe](https://up1.autodesk.com/prd/2027/RVT/664BBF3C-085B-3CD3-A465-2AA5312BEA82/Revit_2027_0_2.exe)
 
+#### 2027.1
+
+- [Official Autodesk release notes](https://help.autodesk.com/cloudhelp/2027/ENU/RevitReleaseNotes/files/2027updates/RevitReleaseNotes_2027updates_2027_1_html.html): released June 16, 2026 (build `27.1.0.45`). [Autodesk lists this update as superseded by 2027.2](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6W4pz5Mds7QTzYKVVTO6r.html); no public direct installer link has been verified.
+
 #### 2027.2.0
 
 - [Revit_2027_2_0.exe](https://up1.autodesk.com/prd/2027/RVT/8C95356B-C1ED-35EE-9E4E-BCD718965B71/Revit_2027_2_0.exe)
